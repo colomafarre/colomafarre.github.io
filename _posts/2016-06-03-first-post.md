@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Coloma's first post"
-date: 2016-05-07
+title: "First post"
+date: 2016-06-03
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
+thumb: /img/IMG_7385.JPG
 categories: development work
 tags: home work office coding design
 ---

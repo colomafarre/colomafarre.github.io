@@ -1,9 +1,9 @@
 # Site settings
-name: Global family
+name: Family on the go
 description: 'Reflections on motherhood, parenting, babies and travel'
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://yourdomain.com' # the base hostname & protocol for your site
+url: 'http://colomafarre.github.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
-    email: ''
-    uri: 'https://github.com/SalGnt'
+    name: 'Coloma Farre' 
+    email: 'coloma.farre@gmail.com'
+    uri: 'https://github.com/colomafarre'
 
 sass:
     sass_dir: _sass
