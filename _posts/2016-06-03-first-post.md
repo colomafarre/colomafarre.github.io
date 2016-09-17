@@ -3,8 +3,8 @@ layout: post
 title: "First post"
 date: 2016-06-03
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
+    - /img/Bday/20160529_173225.jpg
+    - /img/Bday/IMG_7267.JPG
 thumb: /img/IMG_7385.JPG
 categories: development work
 tags: home work office coding design
@@ -52,17 +52,8 @@ Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molesti
 ## Etiam placerat
 Etiam placerat est sed quam semper scelerisque. Suspendisse quis malesuada dolor, eget convallis ipsum. Vivamus elementum luctus diam, eu malesuada eros vulputate sed. Sed ultricies lacinia sodales. Nullam egestas auctor mauris vel mollis. Curabitur vel risus vitae felis cursus convallis eget et magna. Nullam vel purus vel ante porta faucibus id suscipit dolor. Cras posuere, dolor nec suscipit egestas, dui sem eleifend enim, sit amet ornare nunc enim non orci. Donec aliquet magna sed felis consectetur, dictum tincidunt ipsum lobortis. Nulla efficitur est sed auctor eleifend.
 
-{% highlight html %}
-<main id="sb-site">
-    <div class="container">
-        <div class="wrapper">
-            ...
-        </div>
-        ...
-    </div>
-</main>
-{% endhighlight %}
 
-![Sample Image](http://placehold.it/600x480)
+<a href="/img/Bday/20160529_173225.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/20160529_173225.jpg" width = "200"></a>
+ 
 
 Donec facilisis magna in sapien convallis auctor. In porttitor neque magna, ut aliquet diam mollis mattis. Praesent iaculis enim nisl, sit amet molestie nunc rutrum ut. Sed tincidunt dolor eget lacinia interdum. Morbi blandit, augue nec pharetra posuere, odio tortor congue magna, sed dictum libero nunc quis mi. Donec feugiat massa tortor, id tincidunt velit scelerisque sed `<i>emph</i>`. Suspendisse lacinia diam id lectus dignissim, sit amet eleifend elit rutrum. Mauris nunc sapien, ultrices sed vehicula sed, efficitur nec leo.
