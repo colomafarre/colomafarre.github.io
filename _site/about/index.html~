@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <title>Archive</title>
+    <title>About</title>
     <meta name="description" content="Reflections on motherhood, parenting, babies and travel">
 
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700italic,700">
@@ -28,7 +28,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/apple-touch-icon-144x144.png" />
     <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/images/apple-touch-icon-152x152.png" />
 
-    <link rel="canonical" href="http://colomafarre.github.io/archive/">
+    <link rel="canonical" href="http://colomafarre.github.io/about/">
     <link type="application/atom+xml" rel="alternate" href="http://colomafarre.github.io/feed.xml" title="Family on the go" />
 </head>
 
@@ -59,63 +59,24 @@
                 <div class="post">
 
     <header class="post-header">
-        <h1 class="post-title">Archive</h1>
+        <h1 class="post-title">About</h1>
     </header>
 
     <article class="post-content">
-        
-    
-    
-        
-        <h3 class="post-archive-year">2016</h3>
-        <ul class="post-archive">
-        
-    
-    <li>
-        <a href="/first-post/" class="post-archive-link">
-            Ramona turns 1*
-        </a>
-    </li>
+        <p>Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.</p>
 
-    
-    
-        
-        </ul>
-        
-        <h3 class="post-archive-year">2015</h3>
-        <ul class="post-archive">
-        
-    
-    <li>
-        <a href="/japanese-breeze/" class="post-archive-link">
-            Japanese Breeze
-        </a>
-    </li>
+<p><img src="https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png" alt="Post" /></p>
 
-    
-    
-    <li>
-        <a href="/big-city-life/" class="post-archive-link">
-            Big City Life
-        </a>
-    </li>
+<h2 id="getting-started">Getting Started</h2>
+<p>The theme provides a complete Jekyll setup. Download it and start the Jekyll server.</p>
 
-    
-    
-    <li>
-        <a href="/a-snowy-day/" class="post-archive-link">
-            A Snowy Day
-        </a>
-    </li>
+<div class="highlighter-rouge"><pre class="highlight"><code>git clone https://github.com/SalGnt/Travelogue.git
+cd Travelogue
+jekyll serve
+</code></pre>
+</div>
 
-    
-    
-    <li>
-        <a href="/the-sound-of-freedom/" class="post-archive-link">
-            The Sound of Freedom
-        </a>
-    </li>
-
+<p>Visit the <a href="http://jekyllrb.com/">Jekyll website</a> for more information.</p>
 
     </article>
 
@@ -153,7 +114,7 @@
         
             
                 
-                <li class="sb-close ">
+                <li class="sb-close active">
                     <a href="/about/">About</a>
                 </li>
                 
@@ -161,7 +122,7 @@
         
             
                 
-                <li class="sb-close active">
+                <li class="sb-close ">
                     <a href="/archive/">Archive</a>
                 </li>
                 

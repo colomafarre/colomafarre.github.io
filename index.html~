@@ -4,7 +4,6 @@ home: true
 ---
 <h1> Family on the go</h1>
 <h2> Coloma // Joe // Ramona </h2>
-
 <div class="home">
     <ul class="post-list">
         {% if site.pagination %}
