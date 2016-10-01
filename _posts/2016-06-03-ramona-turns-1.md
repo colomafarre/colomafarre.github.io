@@ -4,9 +4,9 @@ title: "Ramona turns 1*"
 date: 2016-09-18
 backgrounds:
     - /img/Bday/20160529_173225.jpg
-thumb: /img/IMG_7385.JPG
+thumb: /img/Bday/IMG_7385.JPG
 categories: Parenting Family
-tags: family Ramona Birthday friends cake 
+tags: family Ramona Birthday friends cake
 comments: true
 ---
 
@@ -36,4 +36,3 @@ It was a beautiful afternoon outdoors, surrended by people we love, Ramona had t
 
 
 <a href="/img/Bday/IMG_7580.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7580.jpg" width = "200"></a>
- 
