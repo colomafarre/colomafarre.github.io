@@ -5,8 +5,8 @@ date: 2016-09-18
 backgrounds:
     - /img/Bday/20160529_173225.jpg
 thumb: /img/IMG_7385.JPG
-categories: Parenting Family
-tags: family Ramona Birthday friends cake 
+categories: parenting family
+tags: family ramona birthday friends cake 
 comments: true
 ---
 
