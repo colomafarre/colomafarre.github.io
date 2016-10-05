@@ -91,10 +91,10 @@
     @include flex-wrap(wrap);
 
     > li {
-        border: 10px solid transparent;
+        border: 20px solid transparent;
         color: $text-color-light;
         flex-grow: 1;
-        height: 200px;
+        height: 250px;
         overflow: hidden;
         position: relative;
         width: 46%;

@@ -10,7 +10,7 @@ tags: family Ramona Birthday friends cake
 comments: true
 ---
 
-On May 29th 2016 Ramona turned 1. One year being parents, learning from her and with her. We celebrated together with my family and some friends, having a picnic style party after walking/biking to this little church yard 30 minutes from my town.
+On May 29th 2016 Ramona turned 1. One year being parents, learning from her and with her. We celebrated together with my family and some friends, having a picnic style party after walking/biking to this little church yard 30 minutes away from my hometown.
 
 <a href="/img/Bday/IMG_7339.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7339.jpg" width = "200"></a>
 
