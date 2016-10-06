@@ -3,7 +3,7 @@ layout: post
 title: "Ramona's First Year Video"
 date: 2016-09-28
 backgrounds:
-    - /img/fondos/IMG_2632.JPG
+
 thumb: /img/ramonastory/DSCF7030.JPG"
 categories: parenting family
 tags: ramona birthday year family
