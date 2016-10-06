@@ -6,14 +6,28 @@ backgrounds:
     - /img/fondos/IMG_2509.JPG
 ---
 
-**Family on the go** is a blog about us, Coloma (me), Joe (my husband) and Ramona (my 16 months old daughter).
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (my 16 months old daughter).
 <a href="/img/ourstory/IMG_4933.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_4933.JPG" width = "200"></a>
 
 
-I am Catalan, from Santa Coloma de Queralt, a tiny town in the middle of Catalunya, Spain.
+I am from Santa Coloma de Queralt, a tiny town in the middle of Catalunya, Spain. My frist language is Catalan. I decided to write in English so I could reach more of you! I am an Early CHildhood teacher and psicopedagist, working as a full time mom now. I like to spend time outside, paint watercolors, learn new skills, travel and spend time with my family and friends.
+
 <a href="/img/ourstory/IMG_5457.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_5457.JPG" width = "200"></a>
 
-Joe is American, born in Gainesville, Florida
+Joe is American, born in Gainesville, Florida. He is an epidemiologist, doing his PhD in malaria erradication. He likes to run, bike, eat kebabs and have fun with his friends.
+
 <a href="/img/ourstory/IMG_5994.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_5994.JPG" width = "200"></a>
 
+We met in Granada in 2012. We traveled together to different places (Turkey, Portugal, Ethiopia, France, ...). We got married on May 11th 2013. On July that same year we moved to Florida where Ramona was born, on May 29th 2015. We currently life in Barcelona, but we are about to move to Mozambique, for Joe's PhD research.
+
+Here are some pictures of us ;)
+
 <a href="/img/ourstory/551559_638377764128_894910500_n.jpg"> <img border="0" alt="Caption goes here" src = "/img/ourstory/551559_638377764128_894910500_n.jpg" width = "200"></a>
+
+<a href="/img/ourstory/7Special.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/7Special.JPG" width = "200"></a>
+
+<a href="/img/ourstory/1000194_10151807779086004_2010701594_n.jpg"> <img border="0" alt="Caption goes here" src = "/img/ourstory/1000194_10151807779086004_2010701594_n.jpg" width = "200"></a>
+
+<a href="/img/ourstory/20150207_200021.jpg"> <img border="0" alt="Caption goes here" src = "/img/ourstory/20150207_200021.jpg" width = "200"></a>
+
+<a href="/img/ourstory/DSCF0779.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/DSCF0779.JPG" width = "200"></a>
