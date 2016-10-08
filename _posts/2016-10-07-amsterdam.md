@@ -6,7 +6,6 @@ backgrounds:
     - /img/amsterdam/IMG_5914.jpg
 thumb: /img/amsterdam/IMG_5914.jpg
 categories: Parenting Family Tavelling
-tags: family Amsterdam Holland Ramona
 comments: true
 ---
 
@@ -26,17 +25,34 @@ Here are some of my favourite pictures of those days!
 
 <a href="/img/amsterdam/IMG_5743.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5743.jpg" width = "200"></a> Blueberries!!!
 
-<a href="/img/amsterdam/IMG_7405.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_7405.jpg" width = "200"></a>
+<a href="/img/amsterdam/IMG_5820.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5820.jpg" width = "200"></a>
 
-<a href="/img/amsterdam/IMG_7400.JPG"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_7400.JPG" width = "200"></a>
+<a href="/img/amsterdam/IMG_5841.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5841.jpg" width = "200"></a>
 
-<a href="/img/amsterdam/IMG_7347.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_7347.jpg" width = "200"></a>
+<a href="/img/amsterdam/IMG_5860.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5860.jpg" width = "200"></a>
 
-<a href="/img/amsterdam/IMG_7417.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_7417.jpg" width = "200"></a>
+<a href="/img/amsterdam/IMG_5875.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5875.jpg" width = "200"></a> Sarphatipark's playground.
 
+<a href="/img/amsterdam/IMG_5890.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5890.jpg" width = "200"></a>
 
+<a href="/img/amsterdam/IMG_5904.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5904.jpg" width = "200"></a>
 
+<a href="/img/amsterdam/IMG_5916.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5916.jpg" width = "200"></a>
 
-It was a great week, and we are even more excited bvecause next year we will get to life for a while in Holland. Help us decide, should we choose Utrecht or Amsterdam?
+<a href="/img/amsterdam/IMG_5939.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5939.jpg" width = "200"></a>
 
-<a href="/img/amsterdam/IMG_7580.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_7580.jpg" width = "200"></a>
+<a href="/img/amsterdam/IMG_5983.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_5983.jpg" width = "200"></a> She looooves the bubbles!!
+
+<a href="/img/amsterdam/IMG_6012.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_6012.jpg" width = "200"></a>
+
+<a href="/img/amsterdam/IMG_6028.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_6028.jpg" width = "200"></a>
+
+<a href="/img/amsterdam/IMG_6038.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_6038.jpg" width = "200"></a>
+
+<a href="/img/amsterdam/IMG_6058.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_6058.jpg" width = "200"></a>
+
+<a href="/img/amsterdam/IMG_6075.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_6075.jpg" width = "200"></a>
+
+<a href="/img/amsterdam/IMG_6095.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_6095.jpg" width = "200"></a>
+
+It was a great week, and we are even more excited because next year we will get to life for a while in Holland. Help us decide, should we choose Utrecht or Amsterdam?

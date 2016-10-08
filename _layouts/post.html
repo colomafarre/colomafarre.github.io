@@ -47,16 +47,7 @@ layout: default
                 {% endfor %}
             </span>
         </div>
-        {% endif %}
-        {% if page.show_tags %}
-        <div class="meta">
-            <h3 class="meta-title">Tags</h3>
-            <span class="meta-content">
-                {% for tag in page.tags %}
-                    {{ tag | capitalize }}&nbsp;
-                {% endfor %}
-            </span>
-        </div>
+        
         {% endif %}
     </footer>
 

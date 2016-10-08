@@ -5,7 +5,6 @@ date: 2016-09-28
 backgrounds:
 
 thumb: /img/ramonastory/DSCF7030.JPG"
-categories: parenting family
 tags: ramona birthday year family
 ---
 

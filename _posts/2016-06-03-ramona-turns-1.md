@@ -2,11 +2,11 @@
 layout: post
 title: "Ramona turns 1*"
 date: 2016-09-18
+author: Coloma Farré
 backgrounds:
     - /img/Bday/20160529_173225.jpg
 thumb: /img/Bday/IMG_7385.JPG
 categories: Parenting Family
-tags: family Ramona Birthday friends cake
 comments: true
 ---
 
