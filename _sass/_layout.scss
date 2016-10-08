@@ -332,7 +332,7 @@
 .next-post {
     background: lighten($dark-color, 3%);
     color: $text-color-light;
-    height: 200px;
+    height: 100px;
     position: relative;
 
     .next-post-link {
@@ -353,7 +353,7 @@
 
     .next-post-thumb {
         float: left;
-        height: 200px;
+        height: 100px;
         margin-right: 30px;
         object-fit: cover;
         width: 200px;

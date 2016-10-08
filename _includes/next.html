@@ -5,8 +5,23 @@
     <img src="{{ page.next.thumb }}" class="next-post-thumb" />
 
     <div class="next-post-info">
-        <span class="next-story">Next Story</span>
+        <span class="next-story">&#8594;Next Story</span>
         <h3 class="next-post-title">{{ page.next.title }}</h3>
+    </div>
+
+</div>
+  <br>
+{% endif %}
+
+{% if page.previous %}
+<div class="next-post">
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="next-post-link"></a>
+
+    <img src="{{ page.previous.thumb }}" class="next-post-thumb" />
+
+    <div class="next-post-info">
+        <span class="next-story">&#8592;Previous Story</span>
+        <h3 class="next-post-title">{{ page.previous.title }}</h3>
     </div>
 </div>
 {% endif %}
