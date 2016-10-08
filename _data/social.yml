@@ -1,6 +1,6 @@
 # RRSSB
 facebook: true
-twitter: false  
+twitter: false
 googleplus: true
 linkedin: true
 reddit: false
@@ -10,6 +10,3 @@ tumblr: false
 pocket: false
 email: true
 instagram: true
-
-# Disqus
-disqus_shortname: 'example'

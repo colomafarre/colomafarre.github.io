@@ -2,6 +2,7 @@
 layout: post
 title: "Ramona's First Year Video"
 date: 2016-09-28
+author: Coloma Farré
 backgrounds:
 
 thumb: /img/ramonastory/DSCF7030.JPG"

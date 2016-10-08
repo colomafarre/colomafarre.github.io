@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "First post"
-author: Coloma Farré
 date: 2016-09-10
+author: Coloma Farré
 backgrounds:
     - /img/fondos/IMG_2632.JPG
 thumb: /img/ourstory/IMG_5713.JPG
@@ -18,4 +18,4 @@ The idea is to share a little bit of our lives here. We thought it would be nice
 
 Thank you for reading! If you want you can subscrive to the blog and everytime I post something new you will receive an email!  
 
-<a href="/img/IMG_5656.JPG"> <img border="0" alt="Caption goes here" src = "/img/IMG_5656.JPG" width = "200"></a>
+<a href="/img/IMG_4652-ANIMATION.gif"> <img border="0" alt="Caption goes here" src = "/img/IMG_4652-ANIMATION.gif" width = "200"></a>

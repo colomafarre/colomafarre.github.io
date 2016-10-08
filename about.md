@@ -18,7 +18,7 @@ Joe is American, born in Gainesville, Florida. He is an epidemiologist, doing hi
 
 <a href="/img/ourstory/IMG_5994.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_5994.JPG" width = "200"></a>
 
-We met in Granada in 2012. We traveled together to different places (Turkey, Portugal, Ethiopia, France, ...). We got married on May 11th 2013. On July that same year we moved to Florida where Ramona was born, on May 29th 2015.
+We met in Granada in 2012. We traveled together to different places (Turkey, Portugal, Ethiopia, France, ...). We got married on May 11th 2013. On July that same year we moved to Gainesville, Florida, where Ramona was born, on May 29th 2015.
 
 <a href="/img/ourstory/DSCF7311.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/DSCF7311.JPG" width = "200"></a>
 
