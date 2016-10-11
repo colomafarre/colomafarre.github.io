@@ -14,7 +14,7 @@ On May 29th 2016 Ramona turned 1. One year being parents, learning from her and 
 
 <a href="/img/Bday/IMG_7339.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7339.jpg" width = "200"></a>
 
-I made her little birthday cake following a recipe from the blog "fit mama real food", perfect banana cake without added sugar that Ramona really LOVED!!!
+I made her little birthday cake following a recipe from the blog <a href="http://www.fitmamarealfood.com/babys-first-smash-cake-healthy-no-sugar-banana-cake/">"Fit mama real food"</a>. Perfect banana cake without added sugar decorated with blueberries that Ramona really LOVED!!!
 
 <a href="/img/Bday/IMG_7331.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7331.jpg" width = "200"></a>
 
@@ -24,6 +24,8 @@ I made her little birthday cake following a recipe from the blog "fit mama real 
 
 <a href="/img/Bday/IMG_7400.JPG"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7400.JPG" width = "200"></a>
 
+I also made her birthday crown, with the help of my grandma! The cool thing about it is that the number is changeble so I will be able to use it for her next birthdays!
+
 <a href="/img/Bday/IMG_7347.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7347.jpg" width = "200"></a>
 
 <a href="/img/Bday/IMG_7417.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7417.jpg" width = "200"></a>
@@ -32,7 +34,7 @@ I made her little birthday cake following a recipe from the blog "fit mama real 
 
 
 
-It was a beautiful afternoon outdoors, surrended by people we love, Ramona had the best time, she was happy and enjoying every minute of it! She is so loved! Thanks everyone
+It was a beautiful afternoon outdoors, surrended by people we love, Ramona had the best time, she was happy and enjoying every minute of it! She is so loved! Thanks everyone!
 
 
 <a href="/img/Bday/IMG_7580.jpg"> <img border="0" alt="Caption goes here" src = "/img/Bday/IMG_7580.jpg" width = "200"></a>
