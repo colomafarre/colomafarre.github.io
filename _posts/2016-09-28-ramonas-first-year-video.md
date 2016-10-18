@@ -6,7 +6,7 @@ author: Coloma Farré
 backgrounds:
 
 thumb: /img/ramonastory/DSCF7030.JPG"
-tags: ramona birthday year family
+categories: Parenting Family Birthday Video
 ---
 
 To celebrate **Ramona's first year of life** we wanted to make a video to share with family and friends.

@@ -56,4 +56,4 @@ Here are some of my favourite pictures of those days!
 
 <a href="/img/amsterdam/IMG_6095.jpg"> <img border="0" alt="Caption goes here" src = "/img/amsterdam/IMG_6095.jpg" width = "200"></a>
 
-It was a great week, and we are even more excited because next year we will get to life for a while in Holland. Help us decide, should we choose Utrecht or Amsterdam?
+It was a great week! And we are even more excited because next year we will get to life for a while in Holland. Help us decide, should we choose, Utrecht or Amsterdam???
