@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First post. Hola!"
-date: 2016-09-10
+date: 2016-09-24 06:00:00 +01:00
 author: Coloma Farré
 backgrounds:
     - /img/fondos/IMG_2632.JPG
