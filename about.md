@@ -6,11 +6,11 @@ backgrounds:
     - /img/fondos/IMG_2509.JPG
 ---
 
-**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 16 months old daughter).
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 16 month old daughter).
 <a href="/img/ourstory/IMG_4933.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_4933.JPG" width = "200"></a>
 
 
-I am from Santa Coloma de Queralt, a tiny town in the middle of Catalunya, Spain. I am an Early CHildhood teacher and psicopedagist, working as a full time mom now. I like to spend time outside, paint watercolors, learn new skills, travel and spend time with my family and friends.
+I am from Santa Coloma de Queralt, a tiny town in the middle of Catalonia, Spain. I am an early childhood teacher and educational psychologist, working as a full time mom now. I like to spend time outside, paint watercolors, learn new skills, travel and hang out with my family and friends.
 
 <a href="/img/ourstory/IMG_5457.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_5457.JPG" width = "200"></a>
 
