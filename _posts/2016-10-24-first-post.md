@@ -16,6 +16,6 @@ My first language is Catalan. I decided to write in English so I could reach mor
 
 The idea is to share a little bit of our lives here. We thought it would be nice, since we are moving from country to country over the next few years (Mozambique, Spain, Holland), to be able to show you what it's like to live there and how are things going for us!
 
-Thank you for reading! And please fill free to leave comments and tell us what you think about all this ;)
+Thank you for reading! And please feel free to leave comments and tell us what you think about all this ;)
 
 <a href="/img/IMG_4652-ANIMATION.gif"> <img border="0" alt="Caption goes here" src = "/img/IMG_4652-ANIMATION.gif" width = "200"></a>
