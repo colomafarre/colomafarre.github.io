@@ -70,12 +70,13 @@ maps <- c('NASAGIBS.ViirsEarthAtNight2012',
 
 l <-
   leaflet(polys) %>%
+  addPolygons(color = NA, opacity = 0, fill = FALSE) %>%
   addProviderTiles(maps[4]) %>%
-  addMarkers(lat = df$lat,
+  addCircleMarkers(lat = df$lat,
                    lng = df$lon,
-                   # col = 'darkgreen',
-                   popup = df$place) %>%
-  addPolygons(color = colors)
+                   col = 'yellow',
+                   popup = df$place) #%>%
+  # addPolygons(color = colors)
 
 library(htmlwidgets)
 saveWidget(l, file='map_widget.html')
