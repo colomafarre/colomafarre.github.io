@@ -4,9 +4,9 @@ title: "1 year of parenting - a video"
 date: 2016-09-24 09:00:00 +01:00
 author: Coloma Farré
 backgrounds:
-
 thumb: /img/ramonastory/DSCF7030.JPG"
 categories: Parenting Family Birthday Video
+comments: true
 ---
 
 To celebrate **Ramona's first year of life** we wanted to make a video to share with family and friends.Ramona's first year video

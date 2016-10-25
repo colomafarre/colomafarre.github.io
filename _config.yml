@@ -36,6 +36,7 @@ defaults:
         # Social
         share_buttons: true
         disqus: true
+        comments: true
 
 gems:
     - jekyll-feed
