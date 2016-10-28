@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Song Tuesday"
-date: 2016-09-24 19:00:00 +01:00
+date: 2016-10-28 
 author: Coloma Farré
 backgrounds:
     - /img/fondos/music-dandelion.jpg
