@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Two Song Tuesday"
-date: 2016-10-28 
+date: 2016-10-28
 author: Coloma Farré
 backgrounds:
     - /img/fondos/music-dandelion.jpg
 thumb: /img/fondos/music-dandelion.jpg
-categories: Family Tradition Music
+categories: Family Traditions Music
 comments: true
 ---
 
