@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A few days in Holland"
-date: 2016-09-24 07:00:00 +01:00
+date: 2016-10-24 07:00:00 +01:00
 author: Coloma Farré
 backgrounds:
     - /img/amsterdam/IMG_5914.jpg

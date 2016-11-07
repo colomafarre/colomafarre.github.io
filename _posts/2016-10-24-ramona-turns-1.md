@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ramona turned 1*"
-date: 2016-09-24 08:00:00 +01:00
+date: 2016-10-24 08:00:00 +01:00
 author: Coloma Farré
 backgrounds:
     - /img/Bday/20160529_173225.jpg

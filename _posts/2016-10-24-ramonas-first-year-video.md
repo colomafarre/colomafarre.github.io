@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1 year of parenting - a video"
-date: 2016-09-24 09:00:00 +01:00
+date: 2016-10-24 09:00:00 +01:00
 author: Coloma Farré
 backgrounds:
 thumb: /img/ramonastory/DSCF7030.JPG"
