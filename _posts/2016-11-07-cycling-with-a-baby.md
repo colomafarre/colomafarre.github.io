@@ -5,7 +5,7 @@ date: 2016-11-07
 author: Joe Brew
 backgrounds:
     - /img/fondos/DSCF0531.JPG
-thumb: /img/bike/DSCF7513.JPG
+thumb: /img/DSCF7513.JPG
 categories: Parenting Family Taveling Bicycling
 comments: true
 ---
