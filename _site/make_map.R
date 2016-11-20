@@ -8,7 +8,7 @@ library(RColorBrewer)
 
 # Dataframe of places we have been
 df <- data_frame(
-  place = c('Barcelona, Spain')
+  place = c('Manhiça, Spain')
 )
 
 # Get lat/lng
@@ -17,7 +17,7 @@ location_full <- geocode(df$place, output = 'all')
 df <- cbind(df, location)
 
 # Manually create vector of countries
-df$country <- c('ESP')
+df$country <- c('MOZ')
 countries <- df$country
 
 # This chunk gets shapefile(s) from the GADM
