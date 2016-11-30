@@ -6,7 +6,7 @@ backgrounds:
     - /img/fondos/IMG_2566.JPG
 ---
 
-**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 16 month old daughter).
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 18 month old daughter).
 
 <a href="/img/ourstory/IMG_4933.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_4933.JPG" width = "200"></a>
 
@@ -23,4 +23,4 @@ We met in Granada in 2012. We traveled together to different places (Turkey, Por
 
 <a href="/img/ourstory/DSCF7021.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/DSCF7021.JPG" width = "200"></a>
 
-We currently live in Manhiça, Mozambique, where Joe is doing research on malaria economics. 
+We currently live in Manhiça, Mozambique, where Joe is doing research on malaria economics.
