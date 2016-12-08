@@ -19,7 +19,7 @@ else:
 
 
 # Work from this directory
-os.chdir('/home/joebrew/Documents/time_lapse')
+os.chdir('/home/joebrew/Documents/colomafarre.github.io')
 this_dir = os.getcwd()
 
 # Get directory of photos
@@ -34,12 +34,17 @@ print input_dir
 os.chdir(input_dir)
 print 'This working directory: ' + os.getcwd()
 
+# STEP 0
+# Capitalization
+print 'Step 1----------------------------------'
+os.system("rename 's/\.jpg$/.JPG/' *.jpg")
+
 # STEP 1
 # Make a renamed directory
 print 'Step 1----------------------------------'
 shutil.rmtree('renamed', ignore_errors=True)
 os.mkdir('renamed')
-# Copy 
+# Copy
 os.system("counter=1")
 os.system("ls -1tr *.JPG | while read filename; do cp $filename renamed/$(printf %04d $counter)_$filename;  done")
 os.chdir('renamed')
@@ -69,7 +74,7 @@ print filelist
 for f in filelist:
     os.remove(f)
 
-# Move 
+# Move
 os.chdir(source)
 files = os.listdir(source)
 
@@ -84,11 +89,9 @@ shutil.rmtree('renamed', ignore_errors=True)
 # Print out the link text
 print 'Step 4----------------------------------'
 
-filelist = [ f for f in os.listdir(input_dir) if f.endswith(".JPG") ]
+filelist = [ f for f in os.listdir(input_dir) if f.endswith(".JPG")]
 
 the_dir = input_dir[45:]
 for f in filelist:
     the_text = '\n' + '<a href="' + the_dir + f + '"> <img border="0" src= "' + the_dir + f + '" width="200"></a>' + '\n'
     print the_text
-
-
