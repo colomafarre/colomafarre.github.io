@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekend in Zongoene"
-date: 2016-12-8
+date: 2016-12-5
 author: Coloma Farré
 backgrounds:
     - /img/zongoene/IMG_0365.JPG
