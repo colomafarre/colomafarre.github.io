@@ -5,7 +5,7 @@ date: 2016-12-21
 author: Coloma Farré
 backgrounds:
     - /img/fondos/20161207_175217.jpg
-thumb: /img/withbaby/IMG_5590.jpg
+thumb: /img/withbaby/0000_IMG_5590.JPG
 categories: Family Parenting Traveling Mozambique
 comments: true
 ---
