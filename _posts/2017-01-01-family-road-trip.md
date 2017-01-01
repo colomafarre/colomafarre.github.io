@@ -9,6 +9,8 @@ thumb: /img/roadtrip/0000_0000_IMG_0151.JPG
 categories: Family Parenting Traveling South-Africa Swaziland
 comments: true
 ---
+Happy 2017 everyone!
+
 <a href="/img/roadtrip/0000_0000_IMG_0121.JPG"> <img border="0" src= "/img/roadtrip/0000_0000_IMG_0121.JPG" width="200"></a>
 
 The day after Christmas we took our second-hand car with a broken speedometer and started our first and last annual **Christmas-family-road-trip**. We had booked 2 nights in a lodge next to Kruger Park, in South Africa, and 2 nights at Mlilwane Wildlife Sanctuary in Swaziland. We didn't know much about both places (they were recommended to us by friends) and we planned a week before so we didn't have a lot of expectations. But it really turned out to be an amazing trip!
@@ -57,7 +59,7 @@ The day after Christmas we took our second-hand car with a broken speedometer an
 
 <a href="/img/roadtrip/0000_0000_IMG_9721.JPG"> <img border="0" src= "/img/roadtrip/0000_0000_IMG_9721.JPG" width="200"></a>
 
-**Mlilwane Wildlife Sanctuary** in Swaziland was a great surprise too. So green, wild and family-friendly. We stayed in this cute "beehive hut" made out of sticks and hay, super cozy and authentic. Animals where everywhere! A bunch of warthogs, impalas and zebras were walking around and you had to be careful to not get in their way. The sound that zebras make was the most surprising thing for me! If you've never heard one, please google it right now.
+**Mlilwane Wildlife Sanctuary** in Swaziland was a great surprise too. So green, wild and family-friendly. We stayed in this cute "beehive hut" made out of sticks and hay, super cozy and authentic. Animals where everywhere! A bunch of warthogs, impalas and zebras were walking around and you had to be careful to not get in their way. **The sound that zebras make was the most surprising thing for me**! If you've never heard one, please google it right now.
 
 
 <a href="/img/roadtrip/0000_0000_IMG_9756.JPG"> <img border="0" src= "/img/roadtrip/0000_0000_IMG_9756.JPG" width="200"></a>
@@ -102,4 +104,6 @@ We didn't see a lot of South Africa or Swaziland, but even in the short time we 
 
 These were some of the pictures. We have so many more! I hope you liked them and you get an idea of how special those places were (even if you know, it is always much better in real life than through pictures...)
 
-And if you wanna see more, here is a video too!
+And if you wanna see more, here is a video too:
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/NYbgKVxJRiQ" frameborder="0" allowfullscreen></iframe>
