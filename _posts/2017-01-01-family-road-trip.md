@@ -6,7 +6,7 @@ author: Coloma Farré
 backgrounds:
     - /img/roadtrip/0000_0000_IMG_9696.JPG
 thumb: /img/roadtrip/0000_0000_IMG_0151.JPG
-categories: Family Parenting Traveling South-Africa Swaziland
+categories: Family Parenting Traveling South-Africa Swaziland Video
 comments: true
 ---
 Happy 2017 everyone!
