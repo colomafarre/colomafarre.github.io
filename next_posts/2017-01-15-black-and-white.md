@@ -18,7 +18,7 @@ I wanted to share with you a little list I've written about great things and not
 
 Let's start with the good things:
 - People are nice, really nice! Very open, curious, friendly and with big smiles.
-- A lot of life happens outside, in the street (markets, play time,hang out time, ...). That's very nice for us because it makes it much easy to connect with people.
+- A lot of life happens outside, in the street (markets, play time,hang out time, ...). That's very nice for us because it makes it much easy to meet people.
 - Contact with nature. We live in a city but it feels like a town: no tall buildings, lot's of palm trees, very green, sandy roads, chickens running in the street, ... Not what you would imagine for a city.
 - Simplicity of life. It feels like people do more with less here. They don't have much but they are fine. Even for us it's been this way.
 - Birds singing every morning and all day long. That's what you hear when you step outside of the door. Rosters, birds, kids playing, no cars.
