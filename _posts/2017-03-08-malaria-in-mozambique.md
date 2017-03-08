@@ -50,12 +50,12 @@ While there are a number of studies and programs being carried out at any given 
 <iframe src="https://player.vimeo.com/video/147084741" width="100%" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/147084741">Regina Rabinovich: The Malaria Elimination Initiative</a> from <a href="https://vimeo.com/isglobal">ISGlobal</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## What is Joe doing?
+## What am I doing?
 
 **My research focuses on the economics of malaria**: the costs and benefits of control and elimination from the private and public point of views, as well as the individual and societal levels. My studies look at the effect of malaria on the productivity of sugarcane workers as well as the absenteeism and performance of children in schools. Quantifying the costs of malaria elimination and control is relatively easy; my work focuses on quantifying the benefits.
 
 <a href="/img/malaria/IMG_20170202_160944_694.jpg"> <img border="0" src= "/img/malaria/IMG_20170202_160944_694.jpg" width="200"></a>
 
-## How does malaria affect our lives?
+## How does malaria affect our day to day?
 
-We're cautious, but not fearful. We sleep under mosquito nets every night, we avoid going out during blood-feeding hours (dusk to dawn), and we lather up in spray when we are out during those times. Ramona and Coloma take pre-exposure prophylaxis to help lower her risk of infection and likelihood of severity if infected. Like most of the other foreigners in Manhiça, we get tested immediately if we have a fever. So far, so good...
+We're cautious, but not fearful. We sleep under mosquito nets every night, we avoid going out during blood-feeding hours (dusk to dawn), and we lather up in spray when we are out during those times. Ramona takes pre-exposure prophylaxis to help lower her risk of infection and likelihood of severity if infected. Like most of the other foreigners in Manhiça, we get tested immediately if we have a fever. So far, so good...
