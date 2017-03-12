@@ -6,7 +6,7 @@ author: Coloma Farré
 backgrounds:
     - /img/escolinha/0000_IMG_6182.JPG
 thumb: /img/escolinha/0000_IMG_6155.JPG
-categories: Family Parenting Volunteering School Mozambique 
+categories: Family Parenting Volunteering School Mozambique
 comments: true
 ---
 
