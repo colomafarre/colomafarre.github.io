@@ -33,7 +33,7 @@ I was so happy to bring back and share their beautiful handwork. And really happ
 
 <a href="/img/dollies/IMG_2807.JPG"> <img border="0" src= "/img/dollies/IMG_2807.JPG" width="200"></a>
 
-Each one was different, with unique hand-painted faces and beautiful handmade clothes, some with jewelry! It was such an honor to bring these beautiful dolls, made with love and skill, to the preschool! I felt like Galileo, so happy to share the work of Americans with the Mozambicans.
+**Each one was different**, with unique hand-painted faces and beautiful handmade clothes, some with jewelry! It was such an honor to bring these beautiful dolls, made with love and skill, to the preschool! I felt like Galileo, so happy to share the work of Americans with the Mozambicans.
 
 Some of the beautiful pictures my son took the day we brought the dolls to school:
 
@@ -61,6 +61,7 @@ Some of the beautiful pictures my son took the day we brought the dolls to schoo
 
 <a href="/img/dollies/0000_IMG_7542.JPG"> <img border="0" src= "/img/dollies/0000_IMG_7542.JPG" width="200"></a>
 
-It was a wonderful trip to a beautiful country. In some ways it was hard to believe I was half way around the world from my home. In other ways, I felt amazed that life can be lived so differently in the same century on the same planet. One evening, standing with my feet in the Indian Ocean, I realized for a moment exactly where I was, on the edge of Africa, some place I never expected to be – with the people I love. I am one lucky Mimi.
+It was a wonderful trip to a beautiful country. In some ways it was hard to believe I was half way around the world from my home. In other ways, I felt amazed that life can be lived so differently in the same century on the same planet. One evening, standing with my feet in the Indian Ocean, I realized for a moment exactly where I was, on the edge of Africa, **some place I never expected to be** – with the people I love. I am one lucky Mimi.
 
 And here is a video of the school experience too:
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/phDSgIdRrKA" frameborder="0" allowfullscreen></iframe>
