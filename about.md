@@ -6,7 +6,7 @@ backgrounds:
     - /img/fondos/IMG_2566.JPG
 ---
 
-**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 21 month old daughter).
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 22 month old daughter).
 
 <a href="/img/ourstory/IMG_4933.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_4933.JPG" width = "200"></a>
 
