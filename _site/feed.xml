@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-27T21:26:18+02:00</updated><id>http://localhost:4000/</id><title type="html">Family on the go</title><subtitle>Reflections on motherhood, parenting, babies and travel</subtitle><author><name>Coloma Farre</name><email>coloma.farre@gmail.com</email><uri>https://github.com/colomafarre</uri></author><entry><title type="html">Second visit - Iaia and Avi in Mozambique!</title><link href="http://localhost:4000/avis/" rel="alternate" type="text/html" title="Second visit - Iaia and Avi in Mozambique!" /><published>2017-04-23T00:00:00+02:00</published><updated>2017-04-23T00:00:00+02:00</updated><id>http://localhost:4000/avis</id><content type="html" xml:base="http://localhost:4000/avis/">&lt;p&gt;The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-27T22:01:12+02:00</updated><id>http://localhost:4000/</id><title type="html">Family on the go</title><subtitle>Reflections on motherhood, parenting, babies and travel</subtitle><author><name>Coloma Farre</name><email>coloma.farre@gmail.com</email><uri>https://github.com/colomafarre</uri></author><entry><title type="html">Mozambican data</title><link href="http://localhost:4000/data/" rel="alternate" type="text/html" title="Mozambican data" /><published>2017-04-27T00:00:00+02:00</published><updated>2017-04-27T00:00:00+02:00</updated><id>http://localhost:4000/data</id><content type="html" xml:base="http://localhost:4000/data/">&lt;p&gt;Living in Mozambique, we often find ourselves wishing we could &lt;em&gt;quantify&lt;/em&gt; an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, others do. What follows are some simple visual comparisons between Mozambique and Spain. Some charts (like the number of children living with HIV) are pretty dire; others (like the increase in schooling) offer hope. Have a look and decide for yourself.&lt;/p&gt;
+
+&lt;h1 id=&quot;education&quot;&gt;Education&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Adjusted net enrollment rate, primary, female (1f primary school age children).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Adjusted net enrollment rate, primary, female (1f primary school age children).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Pupil-teacher ratio, lower secondary.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Pupil-teacher ratio, lower secondary.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Lower secondary completion rate, total (1f relevant age group).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Lower secondary completion rate, total (1f relevant age group).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Literacy rate, adult female (1f females ages 15 and above).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Literacy rate, adult female (1f females ages 15 and above).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Literacy rate, adult male (1f males ages 15 and above).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Literacy rate, adult male (1f males ages 15 and above).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;health&quot;&gt;Health&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Physicians (per 1,000 people).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Physicians (per 1,000 people).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Health expenditure per capita (current US$).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Health expenditure per capita (current US$).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Children (0-14) living with HIV.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Children (0-14) living with HIV.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of HIV, total (1f population ages 15-49).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of HIV, total (1f population ages 15-49).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Incidence of malaria (per 1,000 population at risk).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Incidence of malaria (per 1,000 population at risk).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of stunting, height for age (1f children under 5).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of stunting, height for age (1f children under 5).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Mortality rate, under-5 (per 1,000 live births).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Mortality rate, under-5 (per 1,000 live births).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Low-birthweight babies (1f births).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Low-birthweight babies (1f births).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of anemia among children (1f children under 5).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of anemia among children (1f children under 5).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Life expectancy at birth, female (years).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Life expectancy at birth, female (years).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Life expectancy at birth, male (years).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Life expectancy at birth, male (years).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;wealth&quot;&gt;Wealth&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/GDP per capita, PPP (constant 2011 international $).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/GDP per capita, PPP (constant 2011 international $).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;society&quot;&gt;Society&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Population ages 0-14 (1f total).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Population ages 0-14 (1f total).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Agricultural land (1f land area).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Agricultural land (1f land area).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Improved water source (1f population with access).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Improved water source (1f population with access).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/International tourism, number of arrivals.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/International tourism, number of arrivals.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/People practicing open defecation (1f population).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/People practicing open defecation (1f population).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;technology&quot;&gt;Technology&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Access to electricity (1f population).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Access to electricity (1f population).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Mobile cellular subscriptions (per 100 people).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Mobile cellular subscriptions (per 100 people).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;data-source&quot;&gt;Data source&lt;/h1&gt;
+
+&lt;p&gt;All data are from the &lt;a href=&quot;http://www.worldbank.org/en/country/mozambique&quot;&gt;World Bank&lt;/a&gt;. Code for the visualizations is at.&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary type="html">Living in Mozambique, we often find ourselves wishing we could quantify an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.</summary></entry><entry><title type="html">Second visit - Iaia and Avi in Mozambique!</title><link href="http://localhost:4000/avis/" rel="alternate" type="text/html" title="Second visit - Iaia and Avi in Mozambique!" /><published>2017-04-23T00:00:00+02:00</published><updated>2017-04-23T00:00:00+02:00</updated><id>http://localhost:4000/avis</id><content type="html" xml:base="http://localhost:4000/avis/">&lt;p&gt;The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/avis/0000_IMG_7977.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/avis/0000_IMG_7977.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -637,28 +705,4 @@ But, it does have it’s good side. Since last week we were 2 days without elect
 
 &lt;p&gt;Ans here is &lt;strong&gt;a guided video-tour&lt;/strong&gt;. I hope you enjoy it!&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;321&quot; src=&quot;https://www.youtube.com/embed/rzu1bsHrVHE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Coloma Farré</name></author><summary type="html">We want to show you, through pictures and videos, what our town looks like.</summary></entry><entry><title type="html">The secret to staying in shape when you have a baby</title><link href="http://localhost:4000/family-workout/" rel="alternate" type="text/html" title="The secret to staying in shape when you have a baby" /><published>2017-01-08T00:00:00+02:00</published><updated>2017-01-08T00:00:00+02:00</updated><id>http://localhost:4000/family-workout</id><content type="html" xml:base="http://localhost:4000/family-workout/">&lt;p&gt;&lt;strong&gt;We all know how difficult it is to find time to exercise. Especially when you have a baby&lt;/strong&gt;. Finding time for the bare minimum (sleeping, eating, going to the bathroom) is hard enough, and things like exercise can seem like a second thought. The main problem is that exercise time (going to the gym, running, etc.) is generally separate from family time (playing, etc.). And when you’re forced to choose between one or the other, it’s usually the exercise time that loses. But it doesn’t have to be this way.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/workout/20161125_065646.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/workout/20161125_065646.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We found ourselves complaining about how little time we had all together, while also wanting get in better shape! So we came up with a solution: combining exercise time and family time. &lt;strong&gt;We decided to start working out as a family&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/workout/IMG_0516.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/workout/IMG_0516.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We work out 3 times a week (Monday, Wednesday and Friday). &lt;strong&gt;In Barcelona&lt;/strong&gt; we use to do it in the afternoon, after Joe’s work. We would go to a big park close to our apartment that had a big structure that was perfect to do pull-ups and other exercises. And it also had a fenced sand box where Ramona could entertain herself and play with other kids.&lt;/p&gt;
-
-&lt;p&gt;Here &lt;strong&gt;in Mozambique&lt;/strong&gt; we do it in the morning, before it gets too hot. There aren’t parks here, so we do it in our yard. But our yard is full of sand, full of kids (all the neighbors are always over), and we’ve built some park-like structures (pull-up bars, a swing, etc.). So, it’s basically a park.&lt;/p&gt;
-
-&lt;p&gt;The idea is that &lt;strong&gt;we work out at the same time&lt;/strong&gt;, but kind of take turns playing with Ramona or watching her while she explores or has a snack. &lt;strong&gt;Going back and forth between exercise and baby-watching is actually pretty efficient&lt;/strong&gt;, since after a hard set of push-ups you need some rest time anyway. She loves crawling on top of my when I am trying to do my crunches or planks and it makes it harder but more fun. Also, just this week, she has started to like running. We go “3, 2, 1, go” and she starts “running” and giggling.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/workout/running.gif&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/workout/running.gif&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It may take slightly more time to do the workout like this than if we do it on our own, but it is more entertaining. And we have found that this works best for us. We exercise while spending &lt;strong&gt;good quality time together as a family&lt;/strong&gt;! It is also a good example for Ramona to see her parents doing something healthy while having fun. She even started copying us with some exercises, and when we say the word “exercise” now, she lays on the floor and starts doing “push-ups” (which is super adorable).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/workout/pushups.gif&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/workout/pushups.gif&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is &lt;strong&gt;a silly video&lt;/strong&gt; we made showing some moments of our family workouts. I hope that you like it and maybe that it will inspire you to try it with your family!&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SxohADdwtVg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;It makes for a good new year’s resolution&lt;/strong&gt;! ;D&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary type="html">We all know how difficult it is to find time to exercise. Especially when you have a baby. Finding time for the bare minimum (sleeping, eating, going to the bathroom) is hard enough, and things like exercise can seem like a second thought. The main problem is that exercise time (going to the gym, running, etc.) is generally separate from family time (playing, etc.). And when you’re forced to choose between one or the other, it’s usually the exercise time that loses. But it doesn’t have to be this way.</summary></entry></feed>
+&lt;iframe width=&quot;100%&quot; height=&quot;321&quot; src=&quot;https://www.youtube.com/embed/rzu1bsHrVHE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Coloma Farré</name></author><summary type="html">We want to show you, through pictures and videos, what our town looks like.</summary></entry></feed>
