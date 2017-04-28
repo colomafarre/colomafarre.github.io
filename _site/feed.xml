@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-28T08:39:51+02:00</updated><id>http://localhost:4000/</id><title type="html">Family on the go</title><subtitle>Reflections on motherhood, parenting, babies and travel</subtitle><author><name>Coloma Farre</name><email>coloma.farre@gmail.com</email><uri>https://github.com/colomafarre</uri></author><entry><title type="html">Mozambican data</title><link href="http://localhost:4000/data/" rel="alternate" type="text/html" title="Mozambican data" /><published>2017-04-27T00:00:00+02:00</published><updated>2017-04-27T00:00:00+02:00</updated><id>http://localhost:4000/data</id><content type="html" xml:base="http://localhost:4000/data/">&lt;p&gt;Living in Mozambique, we often find ourselves wishing we could &lt;em&gt;quantify&lt;/em&gt; an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://familyonthego.life/feed.xml" rel="self" type="application/atom+xml" /><link href="http://familyonthego.life/" rel="alternate" type="text/html" /><updated>2017-04-28T21:24:13+02:00</updated><id>http://familyonthego.life/</id><title>Family on the go</title><subtitle>Reflections on motherhood, parenting, babies and travel</subtitle><author><name>Coloma Farre</name><email>coloma.farre@gmail.com</email><uri>https://github.com/colomafarre</uri></author><entry><title>Mozambican data</title><link href="http://familyonthego.life/data/" rel="alternate" type="text/html" title="Mozambican data" /><published>2017-04-28T00:00:00+02:00</published><updated>2017-04-28T00:00:00+02:00</updated><id>http://familyonthego.life/data</id><content type="html" xml:base="http://familyonthego.life/data/">&lt;p&gt;Living in Mozambique, we often find ourselves wishing we could &lt;em&gt;quantify&lt;/em&gt; an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.&lt;/p&gt;
 
 &lt;p&gt;Fortunately, others do. What follows are some simple visual comparisons between Mozambique and Spain. Some charts (like the number of children living with HIV) are pretty dire; others (like the increase in schooling) offer hope. Have a look and decide for yourself.&lt;/p&gt;
 
 &lt;h1 id=&quot;education&quot;&gt;Education&lt;/h1&gt;
 
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_7679.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_7679.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Education is one of those areas where it’s difficult to grasp just how quickly things are changing. A few decades ago, 1 in every 5 girls went to primary school in Mozambique; now, it’s greater than 4 out of 5.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Adjusted net enrollment rate, primary, female (1f primary school age children).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Adjusted net enrollment rate, primary, female (1f primary school age children).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_9893.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_9893.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Going to school is important, but only if the school you go to offers a good education - which is hard to do when there are 35 students for every teacher.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Pupil-teacher ratio, lower secondary.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Pupil-teacher ratio, lower secondary.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_5961.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_5961.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Even if the number enrolled in primary school has increased dramatically, 3 out of 4 Mozambican students drop out before finishing middle school.&lt;/p&gt;
 
@@ -23,6 +29,8 @@
 &lt;p&gt;&lt;a href=&quot;/img/data/Literacy rate, adult male (1f males ages 15 and above).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Literacy rate, adult male (1f males ages 15 and above).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;health&quot;&gt;Health&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_20170225_172519.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_20170225_172519.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;There are many health challenges in Mozambique. One notable one is the lack of doctors.&lt;/p&gt;
 
@@ -44,6 +52,8 @@
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Incidence of malaria (per 1,000 population at risk).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Incidence of malaria (per 1,000 population at risk).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_9957.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_9957.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Stunting - meaning being abnormally small due to chronic malnutrition - is sadly very common in Mozambique.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of stunting, height for age (1f children under 5).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of stunting, height for age (1f children under 5).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -51,14 +61,6 @@
 &lt;p&gt;Stunting is not the only effect of malnutrition. 2 out of every 3 Mozambican children are anemic.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of anemia among children (1f children under 5).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of anemia among children (1f children under 5).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Spanish and Mozambican men smoke at similar rates.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;But the difference in smoking rates among women is striking.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Today, nearly 1 out of every 10 children will die before turning 5. That’s half the rate from a generation ago.&lt;/p&gt;
 
@@ -68,6 +70,8 @@
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Low-birthweight babies (1f births).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Low-birthweight babies (1f births).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_9738.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_9738.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Life expectancy remains low in Mozambique, largely as a result of poverty and illness. Spaniards, on average, live 30 years longer than their Mozambican counterparts.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Life expectancy at birth, male (years).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Life expectancy at birth, male (years).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -75,6 +79,8 @@
 &lt;p&gt;&lt;a href=&quot;/img/data/Life expectancy at birth, female (years).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Life expectancy at birth, female (years).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;wealth&quot;&gt;Wealth&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_5946.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_5946.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The average amount of money that a person makes in a year (even after adjustment for “purchasing power”) is about 3% of the value in Spain. That means it takes a month of work in Mozambique to earn what a Spaniard gets in a day.&lt;/p&gt;
 
@@ -85,6 +91,8 @@
 &lt;p&gt;Walking around town, it feels like children are everywhere. And the data confirm it - about half of Mozambicans are children.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Population ages 0-14 (1f total).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Population ages 0-14 (1f total).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_7409.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_7409.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Development in Spain has seen a continual decline in the percentage of land devoted to agriculture; in Mozambique, you can see the opposite trend.&lt;/p&gt;
 
@@ -98,11 +106,15 @@
 
 &lt;p&gt;&lt;a href=&quot;/img/data/People practicing open defecation (1f population).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/People practicing open defecation (1f population).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/indian ocean and boat.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/indian ocean and boat.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;For every 41 tourists to Spain, 1 tourist goes to Mozambique.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/International tourism, number of arrivals.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/International tourism, number of arrivals.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;technology&quot;&gt;Technology&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/mozambique/IMG_6529.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mozambique/IMG_6529.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Though increasing rapidly, still fewer than 1 in 4 Mozambicans have electricity.&lt;/p&gt;
 
@@ -112,9 +124,15 @@
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Mobile cellular subscriptions (per 100 people).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Mobile cellular subscriptions (per 100 people).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;This is where a clever conclusion should go which summarizes the above into one neat, clear message. But the reality is, there is nothing neat or clear about Mozambique (or the world, for that matter).&lt;/p&gt;
+
+&lt;p&gt;Sometimes, a “conclusion” over-simplifies the true complexity of things. So, we’ll leave this post unconcluded, and allow the data to speak for themselves. As the late, great &lt;a href=&quot;https://www.ted.com/talks/hans_rosling_at_state&quot;&gt;Hans Rosling&lt;/a&gt; said: “let the dataset change your mindset.”&lt;/p&gt;
+
 &lt;h1 id=&quot;data-source&quot;&gt;Data source&lt;/h1&gt;
 
-&lt;p&gt;All data are from the &lt;a href=&quot;http://www.worldbank.org/en/country/mozambique&quot;&gt;World Bank&lt;/a&gt;. R Code for the charts is &lt;a href=&quot;https://github.com/colomafarre/colomafarre.github.io/tree/master/joe_data_post/2017-04-28-data.R&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary type="html">Living in Mozambique, we often find ourselves wishing we could quantify an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.</summary></entry><entry><title type="html">Second visit - Iaia and Avi in Mozambique!</title><link href="http://localhost:4000/avis/" rel="alternate" type="text/html" title="Second visit - Iaia and Avi in Mozambique!" /><published>2017-04-23T00:00:00+02:00</published><updated>2017-04-23T00:00:00+02:00</updated><id>http://localhost:4000/avis</id><content type="html" xml:base="http://localhost:4000/avis/">&lt;p&gt;The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:&lt;/p&gt;
+&lt;p&gt;All data are from the &lt;a href=&quot;http://www.worldbank.org/en/country/mozambique&quot;&gt;World Bank&lt;/a&gt;. R Code for the charts is &lt;a href=&quot;https://github.com/colomafarre/colomafarre.github.io/tree/master/joe_data_post/2017-04-28-data.R&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary>Living in Mozambique, we often find ourselves wishing we could quantify an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.</summary></entry><entry><title>Second visit - Iaia and Avi in Mozambique!</title><link href="http://familyonthego.life/avis/" rel="alternate" type="text/html" title="Second visit - Iaia and Avi in Mozambique!" /><published>2017-04-23T00:00:00+02:00</published><updated>2017-04-23T00:00:00+02:00</updated><id>http://familyonthego.life/avis</id><content type="html" xml:base="http://familyonthego.life/avis/">&lt;p&gt;The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/avis/0000_IMG_7977.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/avis/0000_IMG_7977.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -246,7 +264,7 @@
 
 &lt;p&gt;And here’s a video of the visit too! I hope you like it !!&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/p2CCHIJGpz4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Coloma Farré</name></author><summary type="html">The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:</summary></entry><entry><title type="html">Guest post-Dollies without borders-by Kelli</title><link href="http://localhost:4000/dollies-without-borders/" rel="alternate" type="text/html" title="Guest post-Dollies without borders-by Kelli" /><published>2017-03-27T00:00:00+02:00</published><updated>2017-03-27T00:00:00+02:00</updated><id>http://localhost:4000/dollies-without-borders</id><content type="html" xml:base="http://localhost:4000/dollies-without-borders/">&lt;p&gt;I don’t think I would have ever visited Mozambique if I didn’t have family there. I knew very little about the place and its people and I don’t speak Portuguese. Plus it’s so far away!  But once I heard Joe, Coloma, and Ramona were going to live there, I knew I wanted to go.&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/p2CCHIJGpz4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Coloma Farré</name></author><summary>The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:</summary></entry><entry><title>Guest post-Dollies without borders-by Kelli</title><link href="http://familyonthego.life/dollies-without-borders/" rel="alternate" type="text/html" title="Guest post-Dollies without borders-by Kelli" /><published>2017-03-27T00:00:00+02:00</published><updated>2017-03-27T00:00:00+02:00</updated><id>http://familyonthego.life/dollies-without-borders</id><content type="html" xml:base="http://familyonthego.life/dollies-without-borders/">&lt;p&gt;I don’t think I would have ever visited Mozambique if I didn’t have family there. I knew very little about the place and its people and I don’t speak Portuguese. Plus it’s so far away!  But once I heard Joe, Coloma, and Ramona were going to live there, I knew I wanted to go.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/dollies/0000_IMG_7657.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/dollies/0000_IMG_7657.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -301,7 +319,7 @@
 &lt;p&gt;It was a wonderful trip to a beautiful country. In some ways it was hard to believe I was half way around the world from my home. In other ways, I felt amazed that life can be lived so differently in the same century on the same planet. One evening, standing with my feet in the Indian Ocean, I realized for a moment exactly where I was, on the edge of Africa, &lt;strong&gt;some place I never expected to be&lt;/strong&gt; – with the people I love. I am one lucky Mimi.&lt;/p&gt;
 
 &lt;p&gt;And here is a video of the school experience too:&lt;/p&gt;
-&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/phDSgIdRrKA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Kelli Martin Brew</name></author><summary type="html">I don’t think I would have ever visited Mozambique if I didn’t have family there. I knew very little about the place and its people and I don’t speak Portuguese. Plus it’s so far away! But once I heard Joe, Coloma, and Ramona were going to live there, I knew I wanted to go.</summary></entry><entry><title type="html">Our first visitor in Mozambique</title><link href="http://localhost:4000/mimi/" rel="alternate" type="text/html" title="Our first visitor in Mozambique" /><published>2017-03-25T00:00:00+02:00</published><updated>2017-03-25T00:00:00+02:00</updated><id>http://localhost:4000/mimi</id><content type="html" xml:base="http://localhost:4000/mimi/">&lt;p&gt;Last week we had our first visitor! Kelli (Joe’s mom, Ramona’s “Mimi”) came all the way from Florida (a more than 38 hour trip) to spend her spring break with us. We loved to have her and show her around! And it was very sweet to see Ramona and her grandmother together, walking holding hands, reading books, at school, … after so many months!&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/phDSgIdRrKA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Kelli Martin Brew</name></author><summary>I don’t think I would have ever visited Mozambique if I didn’t have family there. I knew very little about the place and its people and I don’t speak Portuguese. Plus it’s so far away!  But once I heard Joe, Coloma, and Ramona were going to live there, I knew I wanted to go.</summary></entry><entry><title>Our first visitor in Mozambique</title><link href="http://familyonthego.life/mimi/" rel="alternate" type="text/html" title="Our first visitor in Mozambique" /><published>2017-03-25T00:00:00+02:00</published><updated>2017-03-25T00:00:00+02:00</updated><id>http://familyonthego.life/mimi</id><content type="html" xml:base="http://familyonthego.life/mimi/">&lt;p&gt;Last week we had our first visitor! Kelli (Joe’s mom, Ramona’s “Mimi”) came all the way from Florida (a more than 38 hour trip) to spend her spring break with us. We loved to have her and show her around! And it was very sweet to see Ramona and her grandmother together, walking holding hands, reading books, at school, … after so many months!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/mimi/0000_IMG_7426.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/mimi/0000_IMG_7426.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -378,7 +396,7 @@
 &lt;p&gt;Here is a video of the best moments together:&lt;/p&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XDlD88k5LUo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;strong&gt;Who wants to come visit next??? ;)&lt;/strong&gt;&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary type="html">Last week we had our first visitor! Kelli (Joe’s mom, Ramona’s “Mimi”) came all the way from Florida (a more than 38 hour trip) to spend her spring break with us. We loved to have her and show her around! And it was very sweet to see Ramona and her grandmother together, walking holding hands, reading books, at school, … after so many months!</summary></entry><entry><title type="html">Mozambican markets - A unique shopping experience</title><link href="http://localhost:4000/markets/" rel="alternate" type="text/html" title="Mozambican markets - A unique shopping experience" /><published>2017-03-12T00:00:00+02:00</published><updated>2017-03-12T00:00:00+02:00</updated><id>http://localhost:4000/markets</id><content type="html" xml:base="http://localhost:4000/markets/">&lt;p&gt;Going to the market in Mozambique is &lt;strong&gt;an experience for all the senses&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who wants to come visit next??? ;)&lt;/strong&gt;&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary>Last week we had our first visitor! Kelli (Joe’s mom, Ramona’s “Mimi”) came all the way from Florida (a more than 38 hour trip) to spend her spring break with us. We loved to have her and show her around! And it was very sweet to see Ramona and her grandmother together, walking holding hands, reading books, at school, … after so many months!</summary></entry><entry><title>Mozambican markets - A unique shopping experience</title><link href="http://familyonthego.life/markets/" rel="alternate" type="text/html" title="Mozambican markets - A unique shopping experience" /><published>2017-03-12T00:00:00+02:00</published><updated>2017-03-12T00:00:00+02:00</updated><id>http://familyonthego.life/markets</id><content type="html" xml:base="http://familyonthego.life/markets/">&lt;p&gt;Going to the market in Mozambique is &lt;strong&gt;an experience for all the senses&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/markets/IMG_8005.jpg&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/markets/IMG_8005.jpg&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -441,7 +459,7 @@ You can also have a hot meal.&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;337&quot; src=&quot;https://www.youtube.com/embed/6MPSIkosAUY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;I hope you enjoyed the post!!&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary type="html">Going to the market in Mozambique is an experience for all the senses.</summary></entry><entry><title type="html">Malaria in Mozambique</title><link href="http://localhost:4000/malaria-in-mozambique/" rel="alternate" type="text/html" title="Malaria in Mozambique" /><published>2017-03-08T00:00:00+02:00</published><updated>2017-03-08T00:00:00+02:00</updated><id>http://localhost:4000/malaria-in-mozambique</id><content type="html" xml:base="http://localhost:4000/malaria-in-mozambique/">&lt;p&gt;Malaria is the thing we’re asked about the most from our European and American friends. How much malaria is there in Mozambique? What are you doing to prevent it? Do you die if you get it? Is there a cure? Why is there malaria in some places and not in others? What treatment is there? What about vaccines? Who is at risk? Are you scared of malaria? The list goes on…&lt;/p&gt;
+&lt;p&gt;I hope you enjoyed the post!!&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary>Going to the market in Mozambique is an experience for all the senses.</summary></entry><entry><title>Malaria in Mozambique</title><link href="http://familyonthego.life/malaria-in-mozambique/" rel="alternate" type="text/html" title="Malaria in Mozambique" /><published>2017-03-08T00:00:00+02:00</published><updated>2017-03-08T00:00:00+02:00</updated><id>http://familyonthego.life/malaria-in-mozambique</id><content type="html" xml:base="http://familyonthego.life/malaria-in-mozambique/">&lt;p&gt;Malaria is the thing we’re asked about the most from our European and American friends. How much malaria is there in Mozambique? What are you doing to prevent it? Do you die if you get it? Is there a cure? Why is there malaria in some places and not in others? What treatment is there? What about vaccines? Who is at risk? Are you scared of malaria? The list goes on…&lt;/p&gt;
 
 &lt;p&gt;If you want to know about malaria, there are far better resources out there than this blog. The CDC has lots of info (&lt;a href=&quot;https://www.cdc.gov/malaria/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;), as do the WHO (&lt;a href=&quot;http://www.who.int/mediacentre/factsheets/fs094/en/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;) and wikipedia (&lt;a href=&quot;https://en.wikipedia.org/wiki/Malaria&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;). But we’ll try to give an overview along with some specifics to Mozambique, Manhiça (the town where we live) and the CISM (the health research center where I, Joe, work).&lt;/p&gt;
 
@@ -488,7 +506,7 @@ You can also have a hot meal.&lt;/p&gt;
 
 &lt;h2 id=&quot;how-does-malaria-affect-our-day-to-day&quot;&gt;How does malaria affect our day to day?&lt;/h2&gt;
 
-&lt;p&gt;We’re cautious, but not fearful. We sleep under mosquito nets every night, we avoid going out during blood-feeding hours (dusk to dawn), and we lather up in spray when we are out during those times. Ramona takes pre-exposure prophylaxis to help lower her risk of infection and likelihood of severity if infected. Like most of the other foreigners in Manhiça, we get tested immediately if we have a fever. So far, so good…&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary type="html">Malaria is the thing we’re asked about the most from our European and American friends. How much malaria is there in Mozambique? What are you doing to prevent it? Do you die if you get it? Is there a cure? Why is there malaria in some places and not in others? What treatment is there? What about vaccines? Who is at risk? Are you scared of malaria? The list goes on…</summary></entry><entry><title type="html">Escolinha - A Mozambican preschool experience</title><link href="http://localhost:4000/escolinha/" rel="alternate" type="text/html" title="Escolinha - A Mozambican preschool experience" /><published>2017-02-13T00:00:00+02:00</published><updated>2017-02-13T00:00:00+02:00</updated><id>http://localhost:4000/escolinha</id><content type="html" xml:base="http://localhost:4000/escolinha/">&lt;p&gt;Before coming to Mozambique, my &lt;strong&gt;3 goals&lt;/strong&gt; were:&lt;/p&gt;
+&lt;p&gt;We’re cautious, but not fearful. We sleep under mosquito nets every night, we avoid going out during blood-feeding hours (dusk to dawn), and we lather up in spray when we are out during those times. Ramona takes pre-exposure prophylaxis to help lower her risk of infection and likelihood of severity if infected. Like most of the other foreigners in Manhiça, we get tested immediately if we have a fever. So far, so good…&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary>Malaria is the thing we’re asked about the most from our European and American friends. How much malaria is there in Mozambique? What are you doing to prevent it? Do you die if you get it? Is there a cure? Why is there malaria in some places and not in others? What treatment is there? What about vaccines? Who is at risk? Are you scared of malaria? The list goes on…</summary></entry><entry><title>Escolinha - A Mozambican preschool experience</title><link href="http://familyonthego.life/escolinha/" rel="alternate" type="text/html" title="Escolinha - A Mozambican preschool experience" /><published>2017-02-13T00:00:00+02:00</published><updated>2017-02-13T00:00:00+02:00</updated><id>http://familyonthego.life/escolinha</id><content type="html" xml:base="http://familyonthego.life/escolinha/">&lt;p&gt;Before coming to Mozambique, my &lt;strong&gt;3 goals&lt;/strong&gt; were:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Embrace the new culture and environment&lt;/li&gt;
@@ -631,7 +649,7 @@ You can also have a hot meal.&lt;/p&gt;
   &lt;li&gt;&lt;strong&gt;The facilities&lt;/strong&gt; are not what we would call safe and “kid-proof”. There’s no playground door, there are holes in the floor, no running water, no mosquito screens or nets, …&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;But&lt;/strong&gt;, in some ways, it’s &lt;em&gt;better&lt;/em&gt; than a typical Spanish or American preschool. And we are going to try to get the most out of it.&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary type="html">Before coming to Mozambique, my 3 goals were:</summary></entry><entry><title type="html">To miss or not to miss</title><link href="http://localhost:4000/to-miss/" rel="alternate" type="text/html" title="To miss or not to miss" /><published>2017-02-02T00:00:00+02:00</published><updated>2017-02-02T00:00:00+02:00</updated><id>http://localhost:4000/to-miss</id><content type="html" xml:base="http://localhost:4000/to-miss/">&lt;p&gt;Living in Mozambique is such a great adventure for the whole family. We are liking it and enjoying it &lt;strong&gt;but it is not easy all the time&lt;/strong&gt;. It has its ups and downs. Compared to Barcelona, for example, some things are better and others are worse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;But&lt;/strong&gt;, in some ways, it’s &lt;em&gt;better&lt;/em&gt; than a typical Spanish or American preschool. And we are going to try to get the most out of it.&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary>Before coming to Mozambique, my 3 goals were:</summary></entry><entry><title>To miss or not to miss</title><link href="http://familyonthego.life/to-miss/" rel="alternate" type="text/html" title="To miss or not to miss" /><published>2017-02-02T00:00:00+02:00</published><updated>2017-02-02T00:00:00+02:00</updated><id>http://familyonthego.life/to-miss</id><content type="html" xml:base="http://familyonthego.life/to-miss/">&lt;p&gt;Living in Mozambique is such a great adventure for the whole family. We are liking it and enjoying it &lt;strong&gt;but it is not easy all the time&lt;/strong&gt;. It has its ups and downs. Compared to Barcelona, for example, some things are better and others are worse.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/miss/0000_IMG_3928.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/miss/0000_IMG_3928.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -682,7 +700,7 @@ But, it does have it’s good side. Since last week we were 2 days without elect
 
 &lt;p&gt;&lt;a href=&quot;/img/miss/0000_IMG_4047.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/miss/0000_IMG_4047.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/img/miss/0000_IMG_4928.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/miss/0000_IMG_4928.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary type="html">Living in Mozambique is such a great adventure for the whole family. We are liking it and enjoying it but it is not easy all the time. It has its ups and downs. Compared to Barcelona, for example, some things are better and others are worse.</summary></entry><entry><title type="html">Chicken comes from chicken - Thoughts on the origin of things</title><link href="http://localhost:4000/chicken/" rel="alternate" type="text/html" title=" Chicken comes from chicken - Thoughts on the origin of things" /><published>2017-01-18T00:00:00+02:00</published><updated>2017-01-18T00:00:00+02:00</updated><id>http://localhost:4000/chicken</id><content type="html" xml:base="http://localhost:4000/chicken/">&lt;p&gt;To fully understand something, you have to experience it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/img/miss/0000_IMG_4928.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/miss/0000_IMG_4928.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Coloma Farré</name></author><summary>Living in Mozambique is such a great adventure for the whole family. We are liking it and enjoying it but it is not easy all the time. It has its ups and downs. Compared to Barcelona, for example, some things are better and others are worse.</summary></entry><entry><title>Chicken comes from chicken - Thoughts on the origin of things</title><link href="http://familyonthego.life/chicken/" rel="alternate" type="text/html" title=" Chicken comes from chicken - Thoughts on the origin of things" /><published>2017-01-18T00:00:00+02:00</published><updated>2017-01-18T00:00:00+02:00</updated><id>http://familyonthego.life/chicken</id><content type="html" xml:base="http://familyonthego.life/chicken/">&lt;p&gt;To fully understand something, you have to experience it.&lt;/p&gt;
 
 &lt;p&gt;Being told that a kilometer is 1,000 meters is no substitute for running it. Knowing that ice cream reacts pleasantly with taste buds is not the same as eating it. And reading that the universe is infinite isn’t quite as awe-inspiring as the &lt;strong&gt;experience&lt;/strong&gt; of gazing up at a night sky full of stars.&lt;/p&gt;
 
@@ -698,7 +716,7 @@ But, it does have it’s good side. Since last week we were 2 days without elect
 
 &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zs8p_ZvKP5g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;(A special thanks to our neighbors for lending their expertise of all things chicken)&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary type="html">To fully understand something, you have to experience it.</summary></entry><entry><title type="html">A walk around our Mozambican town</title><link href="http://localhost:4000/town-tour/" rel="alternate" type="text/html" title="A walk around our Mozambican town" /><published>2017-01-15T00:00:00+02:00</published><updated>2017-01-15T00:00:00+02:00</updated><id>http://localhost:4000/town-tour</id><content type="html" xml:base="http://localhost:4000/town-tour/">&lt;p&gt;We want to show you, through pictures and videos, what our town looks like.&lt;/p&gt;
+&lt;p&gt;(A special thanks to our neighbors for lending their expertise of all things chicken)&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary>To fully understand something, you have to experience it.</summary></entry><entry><title>A walk around our Mozambican town</title><link href="http://familyonthego.life/town-tour/" rel="alternate" type="text/html" title="A walk around our Mozambican town" /><published>2017-01-15T00:00:00+02:00</published><updated>2017-01-15T00:00:00+02:00</updated><id>http://familyonthego.life/town-tour</id><content type="html" xml:base="http://familyonthego.life/town-tour/">&lt;p&gt;We want to show you, through pictures and videos, what our town looks like.&lt;/p&gt;
 
 &lt;p&gt;Yesterday afternoon we went on a little tour with our neighbor-friend to &lt;strong&gt;our go-to spots in Manhiça&lt;/strong&gt;. The places we go to buy, hang out and walk around. Here are some pictures so you can have a better idea of what our Mozambican town looks like:&lt;/p&gt;
 
@@ -753,4 +771,4 @@ But, it does have it’s good side. Since last week we were 2 days without elect
 
 &lt;p&gt;Ans here is &lt;strong&gt;a guided video-tour&lt;/strong&gt;. I hope you enjoy it!&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;321&quot; src=&quot;https://www.youtube.com/embed/rzu1bsHrVHE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Coloma Farré</name></author><summary type="html">We want to show you, through pictures and videos, what our town looks like.</summary></entry></feed>
+&lt;iframe width=&quot;100%&quot; height=&quot;321&quot; src=&quot;https://www.youtube.com/embed/rzu1bsHrVHE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Coloma Farré</name></author><summary>We want to show you, through pictures and videos, what our town looks like.</summary></entry></feed>
