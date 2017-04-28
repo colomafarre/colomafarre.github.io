@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-27T22:01:12+02:00</updated><id>http://localhost:4000/</id><title type="html">Family on the go</title><subtitle>Reflections on motherhood, parenting, babies and travel</subtitle><author><name>Coloma Farre</name><email>coloma.farre@gmail.com</email><uri>https://github.com/colomafarre</uri></author><entry><title type="html">Mozambican data</title><link href="http://localhost:4000/data/" rel="alternate" type="text/html" title="Mozambican data" /><published>2017-04-27T00:00:00+02:00</published><updated>2017-04-27T00:00:00+02:00</updated><id>http://localhost:4000/data</id><content type="html" xml:base="http://localhost:4000/data/">&lt;p&gt;Living in Mozambique, we often find ourselves wishing we could &lt;em&gt;quantify&lt;/em&gt; an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-28T08:39:51+02:00</updated><id>http://localhost:4000/</id><title type="html">Family on the go</title><subtitle>Reflections on motherhood, parenting, babies and travel</subtitle><author><name>Coloma Farre</name><email>coloma.farre@gmail.com</email><uri>https://github.com/colomafarre</uri></author><entry><title type="html">Mozambican data</title><link href="http://localhost:4000/data/" rel="alternate" type="text/html" title="Mozambican data" /><published>2017-04-27T00:00:00+02:00</published><updated>2017-04-27T00:00:00+02:00</updated><id>http://localhost:4000/data</id><content type="html" xml:base="http://localhost:4000/data/">&lt;p&gt;Living in Mozambique, we often find ourselves wishing we could &lt;em&gt;quantify&lt;/em&gt; an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.&lt;/p&gt;
 
 &lt;p&gt;Fortunately, others do. What follows are some simple visual comparisons between Mozambique and Spain. Some charts (like the number of children living with HIV) are pretty dire; others (like the increase in schooling) offer hope. Have a look and decide for yourself.&lt;/p&gt;
 
 &lt;h1 id=&quot;education&quot;&gt;Education&lt;/h1&gt;
 
+&lt;p&gt;Education is one of those areas where it’s difficult to grasp just how quickly things are changing. A few decades ago, 1 in every 5 girls went to primary school in Mozambique; now, it’s greater than 4 out of 5.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Adjusted net enrollment rate, primary, female (1f primary school age children).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Adjusted net enrollment rate, primary, female (1f primary school age children).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Going to school is important, but only if the school you go to offers a good education - which is hard to do when there are 35 students for every teacher.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Pupil-teacher ratio, lower secondary.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Pupil-teacher ratio, lower secondary.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;Even if the number enrolled in primary school has increased dramatically, 3 out of 4 Mozambican students drop out before finishing middle school.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Lower secondary completion rate, total (1f relevant age group).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Lower secondary completion rate, total (1f relevant age group).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Changes in culture and education have seen a huge increase in literacy. Nearly 50% of adult women and 70% of adult men can now read, more than double the rate from a generation ago. Lots of progress made - but still a long way to go.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Literacy rate, adult female (1f females ages 15 and above).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Literacy rate, adult female (1f females ages 15 and above).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -16,57 +24,97 @@
 
 &lt;h1 id=&quot;health&quot;&gt;Health&lt;/h1&gt;
 
+&lt;p&gt;There are many health challenges in Mozambique. One notable one is the lack of doctors.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Physicians (per 1,000 people).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Physicians (per 1,000 people).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The difference in spending on health in Europe and Africa is astounding. If you take into account both public and private health care, the average Spaniard spends nearly $3,000 on health per year; in Mozambique, that number is $42.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Health expenditure per capita (current US$).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Health expenditure per capita (current US$).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;The lack of money invested in health care is due to a lack of resources, and not a lack of need. Take, for example, the more than 100,000 children living with HIV in Mozambique; in Spain, that number is closer to 100.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Children (0-14) living with HIV.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Children (0-14) living with HIV.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mozambique, like much of Southern Africa, has an extremely high prevalence of HIV among the adult population.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of HIV, total (1f population ages 15-49).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of HIV, total (1f population ages 15-49).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;The incidence of malaria has gone down rapidly, but remains unacceptably high: 1 (clinical) case per person every 3 years.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Incidence of malaria (per 1,000 population at risk).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Incidence of malaria (per 1,000 population at risk).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stunting - meaning being abnormally small due to chronic malnutrition - is sadly very common in Mozambique.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of stunting, height for age (1f children under 5).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of stunting, height for age (1f children under 5).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/data/Mortality rate, under-5 (per 1,000 live births).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Mortality rate, under-5 (per 1,000 live births).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/img/data/Low-birthweight babies (1f births).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Low-birthweight babies (1f births).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stunting is not the only effect of malnutrition. 2 out of every 3 Mozambican children are anemic.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Prevalence of anemia among children (1f children under 5).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Prevalence of anemia among children (1f children under 5).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/img/data/Life expectancy at birth, female (years).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Life expectancy at birth, female (years).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spanish and Mozambican men smoke at similar rates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, males (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But the difference in smoking rates among women is striking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Smoking prevalence, females (1f adults).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, nearly 1 out of every 10 children will die before turning 5. That’s half the rate from a generation ago.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Mortality rate, under-5 (per 1,000 live births).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Mortality rate, under-5 (per 1,000 live births).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;About 8% of Spanish babies are born at low weight (below 2.5kg); the rate is more than double that in Mozambique.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/Low-birthweight babies (1f births).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Low-birthweight babies (1f births).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Life expectancy remains low in Mozambique, largely as a result of poverty and illness. Spaniards, on average, live 30 years longer than their Mozambican counterparts.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Life expectancy at birth, male (years).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Life expectancy at birth, male (years).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;/img/data/Life expectancy at birth, female (years).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Life expectancy at birth, female (years).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h1 id=&quot;wealth&quot;&gt;Wealth&lt;/h1&gt;
+
+&lt;p&gt;The average amount of money that a person makes in a year (even after adjustment for “purchasing power”) is about 3% of the value in Spain. That means it takes a month of work in Mozambique to earn what a Spaniard gets in a day.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/GDP per capita, PPP (constant 2011 international $).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/GDP per capita, PPP (constant 2011 international $).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;society&quot;&gt;Society&lt;/h1&gt;
 
+&lt;p&gt;Walking around town, it feels like children are everywhere. And the data confirm it - about half of Mozambicans are children.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Population ages 0-14 (1f total).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Population ages 0-14 (1f total).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Development in Spain has seen a continual decline in the percentage of land devoted to agriculture; in Mozambique, you can see the opposite trend.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Agricultural land (1f land area).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Agricultural land (1f land area).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;Essentially all Spaniards get their water from an “improved” source (ie, plumbing, a well, etc.). Half of Mozambicans don’t (meaning they get their water from a river or lake).&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Improved water source (1f population with access).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Improved water source (1f population with access).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/img/data/International tourism, number of arrivals.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/International tourism, number of arrivals.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The health risks posed by getting water from a river or lake are exacerbated by the fact that many Mozambicans live in areas where there is no system for dealing with human waste.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/People practicing open defecation (1f population).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/People practicing open defecation (1f population).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;For every 41 tourists to Spain, 1 tourist goes to Mozambique.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/data/International tourism, number of arrivals.png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/International tourism, number of arrivals.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h1 id=&quot;technology&quot;&gt;Technology&lt;/h1&gt;
 
+&lt;p&gt;Though increasing rapidly, still fewer than 1 in 4 Mozambicans have electricity.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;/img/data/Access to electricity (1f population).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Access to electricity (1f population).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cell phones tell a different story. Approximately two thirds of Mozambicans have a cell phone, and that number is likely outdated.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/data/Mobile cellular subscriptions (per 100 people).png&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/data/Mobile cellular subscriptions (per 100 people).png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;data-source&quot;&gt;Data source&lt;/h1&gt;
 
-&lt;p&gt;All data are from the &lt;a href=&quot;http://www.worldbank.org/en/country/mozambique&quot;&gt;World Bank&lt;/a&gt;. Code for the visualizations is at.&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary type="html">Living in Mozambique, we often find ourselves wishing we could quantify an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.</summary></entry><entry><title type="html">Second visit - Iaia and Avi in Mozambique!</title><link href="http://localhost:4000/avis/" rel="alternate" type="text/html" title="Second visit - Iaia and Avi in Mozambique!" /><published>2017-04-23T00:00:00+02:00</published><updated>2017-04-23T00:00:00+02:00</updated><id>http://localhost:4000/avis</id><content type="html" xml:base="http://localhost:4000/avis/">&lt;p&gt;The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:&lt;/p&gt;
+&lt;p&gt;All data are from the &lt;a href=&quot;http://www.worldbank.org/en/country/mozambique&quot;&gt;World Bank&lt;/a&gt;. R Code for the charts is &lt;a href=&quot;https://github.com/colomafarre/colomafarre.github.io/tree/master/joe_data_post/2017-04-28-data.R&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Joe Brew</name></author><summary type="html">Living in Mozambique, we often find ourselves wishing we could quantify an impression. We say things like “salaries are low” or “a lot of kids get malaria”, but we generally don’t have a number to match words like “low” or “a lot”.</summary></entry><entry><title type="html">Second visit - Iaia and Avi in Mozambique!</title><link href="http://localhost:4000/avis/" rel="alternate" type="text/html" title="Second visit - Iaia and Avi in Mozambique!" /><published>2017-04-23T00:00:00+02:00</published><updated>2017-04-23T00:00:00+02:00</updated><id>http://localhost:4000/avis</id><content type="html" xml:base="http://localhost:4000/avis/">&lt;p&gt;The second (and last) group of visitors that came to Mozambique were my parents (avi and iaia). They came all the way from Barcelona to spend their Easter vacation with us, and we had a blast! Their first time in Africa!! A trip full of new experiences and places for them! They were pretty shocked at first but then they really enjoyed it. Here is what we did:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/img/avis/0000_IMG_7977.JPG&quot;&gt; &lt;img border=&quot;0&quot; src=&quot;/img/avis/0000_IMG_7977.JPG&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
