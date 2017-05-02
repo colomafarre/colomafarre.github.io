@@ -6,7 +6,7 @@ backgrounds:
     - /img/fondos/IMG_2566.JPG
 ---
 
-**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 22 month old daughter).
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 23 month old daughter).
 
 <a href="/img/ourstory/IMG_4933.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_4933.JPG" width = "200"></a>
 
@@ -14,6 +14,17 @@ backgrounds:
 I am from Santa Coloma de Queralt, a tiny town in the middle of Catalonia, Spain. I am an early childhood teacher and educational psychologist, working as a full time mom now. I like to spend time outside, paint watercolors, learn new skills, travel and hang out with my family and friends.
 
 <a href="/img/ourstory/IMG_5457.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_5457.JPG" width = "200"></a>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2n family ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7902219614622730"
+     data-ad-slot="4537335602"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Joe is American, born in Gainesville, Florida. He is an epidemiologist, doing his PhD in malaria eradication. He likes running, biking, data, kebabs, and photography. But mostly kebabs.
 
