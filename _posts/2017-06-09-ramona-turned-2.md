@@ -11,15 +11,15 @@ comments: true
 ---
 On May 29th 2017, Ramona turned 2. Two times around the sun! She has grown so much the last year. She is such a little girl now, not a baby anymore!!
 
-It has been such an interesting second year of her short life! Spending the first half of it in Spain and the second in Mozambique. She adapts quickly to new situations, making friends wherever she goes! Always amazed about life! That's Ramona!
+It has been such an interesting second year of her short life! Spending the first half of it in Spain and the second in Mozambique. She adapts quickly to new situations, making friends wherever she goes! Always amazed at life! That's Ramona!
 
 <a href="/img/turned2/IMG_20170521_095136_654.jpg"> <img border="0" src= "/img/turned2/IMG_20170521_095136_654.jpg" width="200"></a>
 
-She is funny and sweet, loves music and to dance, loves books and coloring, likes to eat, everything, but specially eggs, fish and fruit! She still sucks her thumb, and likes to touch an elbow while she does it! She is speaking more and more, mixing Catalan, English and Portuguese! She is such a trooper!
+She is funny and sweet, loves music and dancing, loves books and coloring, likes to eat, everything, but especially eggs, fish and fruit! She still sucks her thumb, and likes to touch an elbow while she does it! She is speaking more and more, mixing Catalan, English and Portuguese! She is such a trooper!
 
 <a href="/img/turned2/IMG_1306.jpg"> <img border="0" src= "/img/turned2/IMG_1306.jpg" width="200"></a>
 
-We celebrated her birthday with family and some friends on Saturday 3rd, at La Pobla. We played outside and had snacks and delicious treats inside.
+We celebrated her birthday with family and some friends on Saturday the 3rd, at La Pobla, a small village near my hometown. We played outside and had snacks and delicious treats inside.
 
 <a href="/img/turned2/0000_IMG_1390.JPG"> <img border="0" src= "/img/turned2/0000_IMG_1390.JPG" width="200"></a>
 
@@ -39,7 +39,7 @@ She enjoyed every minute of her party! She seemed so happy and pleased! She sure
 
 <a href="/img/turned2/0000_IMG_1531.JPG"> <img border="0" src= "/img/turned2/0000_IMG_1531.JPG" width="200"></a>
 
-She blow the 2 candles on her cake and open the gifts with the help of her younger friends!
+She blew the 2 candles on her cake and opened the gifts with the help of her younger friends!
 
 <a href="/img/turned2/0000_IMG_1570.JPG"> <img border="0" src= "/img/turned2/0000_IMG_1570.JPG" width="200"></a>
 
