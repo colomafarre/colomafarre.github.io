@@ -6,9 +6,9 @@ backgrounds:
     - /img/fondos/IMG_2566.JPG
 ---
 
-**Family on the go** is a blog about us: Coloma (me), Joe (my husband) and Ramona (our 2 years old daughter).
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband), Ramona (our 2 years old daughter) and a baby boy joining our family in 2018!
 
-<a href="/img/ourstory/IMG_4933.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_4933.JPG" width = "200"></a>
+<a href="/img/Instasize_0707113437.jpg"> <img border="0" alt="Caption goes here" src = "/img/Instasize_0707113437.jpg" width = "200"></a>
 
 
 I am from Santa Coloma de Queralt, a tiny town in the middle of Catalonia, Spain. I am an early childhood teacher and educational psychologist, working as a full time mom now. I like to spend time outside, paint watercolors, learn new skills, travel and hang out with my family and friends.
@@ -34,4 +34,4 @@ We met in Granada in 2012. We traveled together to different places (Turkey, Por
 
 <a href="/img/ourstory/DSCF7021.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/DSCF7021.JPG" width = "200"></a>
 
-We are currently in Barcelona, after spending 6 months in Mozambique, where Joe was doing research on malaria economics. Moving to the Netherlands soon. 
+We are currently in Barcelona, after spending 6 months in Mozambique, where Joe was doing research on malaria economics. Moving to Amsterdam soon.
