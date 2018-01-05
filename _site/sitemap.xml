@@ -161,6 +161,10 @@
 <lastmod>2017-10-24T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/dutch-christmas/</loc>
+<lastmod>2018-01-05T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/404/</loc>
 </url>
 <url>
@@ -189,6 +193,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page/5/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page/6/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google0dc2b5f9ab7d53c4.html</loc>
