@@ -26,7 +26,7 @@ He was born the day after his due date, by natural labor at the Hospital OLVG We
 
 <a href="/img/welcomegalileo/0000_IMG_8626.JPG"> <img border="0" src= "/img/welcomegalileo/0000_IMG_8626.JPG" width="200"></a> ¨Beschuit met muisjes", typical Dutch treat eaten when a baby is born, offered by the hospital with a bottle of cava. 
 
-After 3 hours we took a taxi home (at around 1 am!!!) waking up my mom and my aunt who couln't believe we were already back, and Ramona, who woke up when she heard his brother crying while we were changing his diaper. She came to our room and met his baby brother! It was such a tender moment, you could read her amusment and excitement in her face! She was immediataely gentle and loving with him, like she knew what to do from the begining! Such a good big sister!
+After 3 hours we took a taxi home (at around 1 am!!!) waking up my mom and my aunt who couldn't believe we were already back, and Ramona, who woke up when she heard his brother crying while we were changing his diaper. She came to our room and met his baby brother! It was such a tender moment, you could read her amusment and excitement in her face! She was immediately gentle and loving with him, like she knew what to do from the begining! Such a good big sister!
 
 <a href="/img/welcomegalileo/0000_IMG_8747.JPG"> <img border="0" src= "/img/welcomegalileo/0000_IMG_8747.JPG" width="200"></a>
 
