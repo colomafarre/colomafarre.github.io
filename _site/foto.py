@@ -19,7 +19,7 @@ else:
 
 
 # Work from this directory
-os.chdir('/home/joebrew/Documents/colomafarre.github.io')
+os.chdir('/home/colomafarre/Documents/colomafarre.github.io')
 this_dir = os.getcwd()
 
 # Get directory of photos
