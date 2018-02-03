@@ -6,9 +6,9 @@ backgrounds:
     - /img/fondos/IMG_2566.JPG
 ---
 
-**Family on the go** is a blog about us: Coloma (me), Joe (my husband), Ramona (our 2 years old daughter) and a baby boy joining our family in 2018!
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband), Ramona (our 2 years old daughter) and Galileo (our son born January 2018)
 
-<a href="/img/Instasize_0707113437.jpg"> <img border="0" alt="Caption goes here" src = "/img/Instasize_0707113437.jpg" width = "200"></a>
+<a href="/img/welcomegalileo/0000_IMG_8925.JPG"> <img border="0" src= "/img/welcomegalileo/0000_IMG_8925.JPG" width="200"></a>
 
 
 I am from Santa Coloma de Queralt, a tiny town in the middle of Catalonia, Spain. I am an early childhood teacher and educational psychologist, working as a full time mom now. I like to spend time outside, paint watercolors, learn new skills, travel and hang out with my family and friends.
@@ -34,4 +34,8 @@ We met in Granada in 2012. We traveled together to different places (Turkey, Por
 
 <a href="/img/ourstory/DSCF7021.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/DSCF7021.JPG" width = "200"></a>
 
-We are currently in Barcelona, after spending 6 months in Mozambique, where Joe was doing research on malaria economics. Moving to Amsterdam soon.
+We are currently in Amsterdam, after spending 6 months in Mozambique, where Joe was doing research on malaria economics. Galileo was born on January 21st, 2018, becoming like this a family of 4. 
+
+<a href="/img/welcomegalileo/0000_IMG_8726.JPG"> <img border="0" alt="Caption goes here" src = "/img/welcomegalileo/0000_IMG_8726.JPG" width = "200"></a>
+
+
