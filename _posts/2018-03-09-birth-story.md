@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Galileo's Birth Story"
-date: 2018-03-08
+date: 2018-03-09
 author: Coloma Farré
 backgrounds:
     - /img/welcomegalileo/0000_20180121_103914.JPG
@@ -15,7 +15,7 @@ comments: true
 
 <a href="/img/birthstory/0000_20180120_095204.JPG"> <img border="0" src= "/img/birthstory/0000_20180120_095204.JPG" width="200"></a>
 
-My mom and tieta Encarna got here at 9 in the morning. We went shopping downtown until I was so tired, we took the tram back. We had pizzas and had a good night sleep. Before going to sleep **I talked to the baby telling him I was ready**, that we were all ready for him!
+My mom and aunt got here at 9 in the morning. We went shopping downtown until I was so tired, we took the tram back. We had pizzas and had a good night sleep. Before going to sleep **I talked to the baby telling him I was ready**, that we were all ready for him!
 
 <a href="/img/birthstory/0000_20180120_105027.JPG"> <img border="0" src= "/img/birthstory/0000_20180120_105027.JPG" width="200"></a>
 
