@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ramona turned 3*"
-date: 2018-06-06
+date: 2018-06-07
 author: Coloma Farré
 backgrounds:
     - /img/turned3/20180526_101948.jpg
@@ -10,7 +10,7 @@ categories: Family Parenting Birthday Video
 comments: true
 ---
 
-On May 29th 2018, Ramona turned 3. Two times around the sun!
+On May 29th 2018, Ramona turned 3. Tree times around the sun!
 
 <a href="/img/florida/0000_IMG_2569.JPG"> <img border="0" src= "/img/florida/0000_IMG_2569.JPG" width="200"></a>
 
