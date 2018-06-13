@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ramona turned 3*"
-date: 2018-06-11
+date: 2018-06-13
 author: Coloma Farré
 backgrounds:
     - /img/turned3/20180526_101948.jpg
@@ -10,7 +10,7 @@ categories: Family Parenting Birthday Video
 comments: true
 ---
 
-On May 29th 2018, Ramona turned 3. Three times around the sun! And this year she did in the city she was born: Gainesville, Florida!
+On May 29th 2018, Ramona turned 3. Three times around the sun! And this year she did it in the city she was born: Gainesville, Florida!
 
 We celebrated twice while we were there!! Before travelling we talked to her about her Birthday party, and how she would turn 3 while in Gainesville, etc. So the first day we got there she asked "Am I 3 now??" She was so excited to turn 3 that we started celebrating her birthday 3 days ealier so she could say she was 3!!!
 
@@ -55,7 +55,7 @@ The sweetest family of 4 !
 
 <a href="/img/florida/0000_IMG_2798.JPG"> <img border="0" src= "/img/florida/0000_IMG_2798.JPG" width="200"></a>
 
-And 2 days later we celebrated again, with more family, a delicious **carrot cake** by Mimi, at the **Cypress & Grove** Brewery, where there was entertainment for everyone (beer and pool table for the adults, and popcorn, blueberry lemonade and corn hole for the little ones). Everybody had fun, but especially Ramona, opening gifts and sharing lolipops with all her "american friends"
+And 2 days later we celebrated again, with more family, a delicious **carrot cake** by Mimi, at the **Cypress & Grove** Brewery, where there was entertainment for everyone (beer and pool table for the adults, and popcorn, blueberry lemonade and corn hole for the little ones). Everybody had fun, but especially Ramona, opening gifts and sharing lolipops with all her "American friends"
 
 <a href="/img/florida/0000_IMG_3108.JPG"> <img border="0" src= "/img/florida/0000_IMG_3108.JPG" width="200"></a>
 
@@ -79,9 +79,11 @@ And 2 days later we celebrated again, with more family, a delicious **carrot cak
 
 <a href="/img/florida/0000_IMG_3228.JPG"> <img border="0" src= "/img/florida/0000_IMG_3228.JPG" width="200"></a>
 
-And now she is a big 3 year old girl :-D
+And now she is a big 3 year old !!!
 <a href="/img/florida/0000_IMG_3236.JPG"> <img border="0" src= "/img/florida/0000_IMG_3236.JPG" width="200"></a>
 
 Finally, the video I put together of her 3rd year of life! A year with a whole lot of dancing, jumping, biking, talking, and with the big addition to the family, Ramona becoming a big sister! 
 
-Birthdays are always emotional for me! Looking back at the past year, seeing how much she has changed and learned! And it always seems that it can get any better but it does! We love you Ramona, we will always love you! 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cxa7eonuFmI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Birthdays are always emotional for me! (If you want to see Ramona's first birthday post <a href="http://familyonthego.life/ramona-turns-1/" target="_blank">here</a>, and second <a href="http://familyonthego.life/ramona-turned-2/" target="_blank">here</a>) Looking back at the past year, seeing how much she has changed and learned! And it always seems that it can't get any better but it does! We love you Ramona, we will always love you! 
