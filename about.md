@@ -6,7 +6,7 @@ backgrounds:
     - /img/fondos/IMG_2566.JPG
 ---
 
-**Family on the go** is a blog about us: Coloma (me), Joe (my husband), Ramona (our 2 years old daughter) and Galileo (our son born January 2018)
+**Family on the go** is a blog about us: Coloma (me), Joe (my husband), Ramona (our 3 years old daughter) and Galileo (our son born January 2018)
 
 <a href="/img/welcomegalileo/0000_IMG_8925.JPG"> <img border="0" src= "/img/welcomegalileo/0000_IMG_8925.JPG" width="200"></a>
 
@@ -30,12 +30,12 @@ Joe is American, born in Gainesville, Florida. He is an epidemiologist, doing hi
 
 <a href="/img/ourstory/IMG_5994.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_5994.JPG" width = "200"></a>
 
-We met in Granada in 2012. We traveled together to different places (Turkey, Portugal, Ethiopia, France, ...). We got married on May 11th, 2013. On July that same year we moved to Gainesville, Florida, where Ramona was born, on May 29th, 2015.
+We met in Granada in 2012. We traveled together to different places (Turkey, Portugal, Ethiopia, France, ...). We got married on May  2013. On July that same year we moved to Gainesville, Florida, where Ramona was born, on May 29th, 2015.
 
 <a href="/img/ourstory/DSCF7021.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/DSCF7021.JPG" width = "200"></a>
 
 We are currently in Santa Coloma de Queralt, after spending 6 months in Amsterdam, and before that, 6 months in Mozambique where Joe was doing research on malaria economics. Galileo was born on January 21st, 2018, becoming like this a family of 4. 
 
-<a href="/img/welcomegalileo/0000_IMG_8726.JPG"> <img border="0" alt="Caption goes here" src = "/img/welcomegalileo/0000_IMG_8726.JPG" width = "200"></a>
+<a href="/img/ourstory/IMG_5463.JPG"> <img border="0" alt="Caption goes here" src = "/img/ourstory/IMG_5463.JPG" width = "200"></a>
 
 
