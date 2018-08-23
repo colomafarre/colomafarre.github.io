@@ -154,3 +154,7 @@ It’s a pity that we live across the ocean and seeing each other in person happ
 
 
 <a href="/img/toronto/0000_IMG_6612.JPG"> <img border="0" src= "/img/toronto/0000_IMG_6612.JPG" width="200"></a>
+
+
+And a video compilation of the best moments !!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/33WQl_TKm8k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
