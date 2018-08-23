@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Toronto with kids"
-date: 2018-08-22
-author: Xing C. Brew
+date: 2018-08-23
+author: Xing Brew
 backgrounds:
     - /img/toronto/0000_20180730_170831.JPG
 thumb: /img/toronto/0000_20180730_170831.JPG
@@ -98,8 +98,9 @@ Toronto has a number of great parks and playgrounds. The two nearest to where we
 
 <a href="/img/toronto/0000_IMG_6473.JPG"> <img border="0" src= "/img/toronto/0000_IMG_6473.JPG" width="200"></a>
 
-**Beach**
+- **HTO Park / Harbourfront Centre**
 
+HTO Park is an urban beach located at Toronto’s lakefront where you can enjoy a serene morning playing in the sand, watch planes fly into and out of Billy Bishop Airport on the Toronto Island, and relax under the giant yellow umbrellas. From the park, you can walk a short distance along the waterfront to Harbourfront Centre - another great spot for children and grownups to enjoy. Although there were no activities or events happening while we were there, Harbourfront Centre hosts several cultural festivals, live music events, and various other family-friendly activities all year round. 
 <a href="/img/toronto/0000_IMG_6770.JPG"> <img border="0" src= "/img/toronto/0000_IMG_6770.JPG" width="200"></a>
 
 <a href="/img/toronto/0000_IMG_6773.JPG"> <img border="0" src= "/img/toronto/0000_IMG_6773.JPG" width="200"></a>
@@ -112,7 +113,9 @@ Toronto has a number of great parks and playgrounds. The two nearest to where we
 
 <a href="/img/toronto/0000_IMG_6790.JPG"> <img border="0" src= "/img/toronto/0000_IMG_6790.JPG" width="200"></a>
 
-**CN tower**
+- **CN tower**
+
+Toronto’s iconic tower offers amazing panoramic views of the city. Some folks (Joe and I to name a few) prefer to admire the 553 meter tall landmark from the ground, so we decided to take the kids to the park while Ben, Coloma, and Julia ventured to the top of the tower. Riding up the glass elevator, touring the observation deck, and having to wait in a long line to take the elevator down on busier days may be slightly overwhelming for toddlers. For older children and adults, however, going to the top of the CN Tower is often an exciting and memorable experience. We’ll have to take Ramona and Galileo there on their next visit to Toronto.   
 
 <a href="/img/toronto/0000_20180730_161433.JPG"> <img border="0" src= "/img/toronto/0000_20180730_161433.JPG" width="200"></a>
 
