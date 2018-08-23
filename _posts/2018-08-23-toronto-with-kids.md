@@ -157,4 +157,4 @@ It’s a pity that we live across the ocean and seeing each other in person happ
 
 
 And a video compilation of the best moments !!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/33WQl_TKm8k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/33WQl_TKm8k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
