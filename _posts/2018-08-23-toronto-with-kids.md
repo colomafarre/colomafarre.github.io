@@ -6,7 +6,7 @@ author: Xing Brew
 backgrounds:
     - /img/toronto/0000_20180730_170831.JPG
 thumb: /img/toronto/0000_20180730_170831.JPG
-categories: Family Parenting Toddler Nature Traditions
+categories: Family Parenting Toddler Traveling Toronto
 comments: true
 ---
 
