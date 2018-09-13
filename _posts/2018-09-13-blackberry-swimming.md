@@ -46,11 +46,11 @@ The next morning we went to the pool. Even if it was not so hot, we did read som
 
 <a href="/img/blackberry/0000_IMG_9095.JPG"> <img border="0" src= "/img/blackberry/0000_IMG_9095.JPG" width="200"></a>
 
-<a href="/img/blackberry/0000_IMG_9094.JPG"> <img border="0" src= "/img/blackberry/0000_IMG_9094.JPG" width="200"></a> Those little teeht!!!
+<a href="/img/blackberry/0000_IMG_9094.JPG"> <img border="0" src= "/img/blackberry/0000_IMG_9094.JPG" width="200"></a> Those little teeth!!!
 
 <a href="/img/blackberry/0000_IMG_9097.JPG"> <img border="0" src= "/img/blackberry/0000_IMG_9097.JPG" width="200"></a>
 
-In the afternoon we went to Santa Perpetua, a town with a cool castle tower and church on top of a hill. Then we found this **hidden swimming hole** and we swam! It was fantstic to feel the cold water and to be in the middle of nature, so disconected but yet so close to home!
+In the afternoon we went to Santa Perpètua de Gaià, a town with a cool castle tower and church on top of a hill. Then we found this **hidden swimming hole** and we swam! It was fantstic to feel the cold water and to be in the middle of nature, so disconnected but yet so close to home!
 
 <a href="/img/blackberry/0000_IMG_9189.JPG"> <img border="0" src= "/img/blackberry/0000_IMG_9189.JPG" width="200"></a>
 
@@ -66,7 +66,7 @@ In the afternoon we went to Santa Perpetua, a town with a cool castle tower and 
 
 <a href="/img/blackberry/0000_IMG_9185.JPG"> <img border="0" src= "/img/blackberry/0000_IMG_9185.JPG" width="200"></a>
 
-On Sunday we took a day trip to **Prades**, this cute red moutain town, an hour from Santa Coloma, where my aunt and oncle live! We had an amazing lunch and then in the afternoon there was a giants parade!! Ramona's favorite!! Music, giants dancing and ice-cream, what else do you need ;-)
+On Sunday we took a day trip to **Prades**, this cute red moutain town, an hour from Santa Coloma, where my aunt and uncle live! We had an amazing lunch and then in the afternoon there was a giants parade!! Ramona's favorite!! Music, giants dancing and ice-cream, what else do you need ;-)
 
 <a href="/img/blackberry/0000_IMG_9271.JPG"> <img border="0" src= "/img/blackberry/0000_IMG_9271.JPG" width="200"></a>
 
