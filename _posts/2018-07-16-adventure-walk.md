@@ -2,7 +2,7 @@
 layout: post
 title:  "Adventure walks"
 date: 2018-07-16
-author: Joe Brew
+author: Joe 
 backgrounds:
     - /img/adventurewalk/0000_IMG_5529.JPG
 thumb: /img/adventurewalk/0000_IMG_5237.JPG

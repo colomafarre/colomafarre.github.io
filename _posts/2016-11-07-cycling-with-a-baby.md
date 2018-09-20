@@ -2,7 +2,7 @@
 layout: post
 title: "Cycling with a baby"
 date: 2016-11-07
-author: Joe Brew
+author: Joe 
 backgrounds:
     - /img/fondos/DSCF0531.JPG
 thumb: /img/DSCF7513.JPG
