@@ -39,59 +39,13 @@ print 'This working directory: ' + os.getcwd()
 print 'Step 1----------------------------------'
 os.system("rename 's/\.jpg$/.JPG/' *.jpg")
 
-# STEP 1
-# Make a renamed directory
-print 'Step 1----------------------------------'
-shutil.rmtree('renamed', ignore_errors=True)
-os.mkdir('renamed')
-# Copy
-os.system("counter=1")
-os.system("ls -1tr *.JPG | while read filename; do cp $filename renamed/$(printf %04d $counter)_$filename;  done")
-os.chdir('renamed')
-
 # STEP 2
-print 'Step 2----------------------------------'
-shutil.rmtree('resized', ignore_errors=True)
-os.mkdir('resized')
-# os.system("mogrify -path resized -resize 1920x1080! *.JPG")
-# os.system("mogrify -path resized -resize 1920x1080 *.JPG")
-os.system("mogrify -path resized -resize 960x720 *.JPG")
-os.chdir('resized')
-
-# STEP 3
-print 'Step 3----------------------------------'
-# Copy and overwrite
-import shutil
-import os
-
-source = os.getcwd()
-dest = input_dir
-
-# Remove from original dir
-os.chdir(input_dir)
-filelist = [ f for f in os.listdir(input_dir) if f.endswith(".JPG") ]
-print filelist
-for f in filelist:
-    os.remove(f)
-
-# Move
-os.chdir(source)
-files = os.listdir(source)
-
-for f in files:
-    shutil.move(f, dest)
-
-# Remove folder
-os.chdir(input_dir)
-shutil.rmtree('renamed', ignore_errors=True)
-
-# STEP 4
 # Print out the link text
-print 'Step 4----------------------------------'
+print 'Step 2----------------------------------'
 
-filelist = [ f for f in os.listdir(input_dir) if f.endswith(".JPG")]
+filelist = [ f for f in sorted(os.listdir(input_dir)) if f.endswith(".JPG")]
 
-the_dir = input_dir[45:]
+the_dir = input_dir[49:]
 for f in filelist:
     the_text = '\n' + '<a href="' + the_dir + f + '"> <img border="0" src= "' + the_dir + f + '" width="200"></a>' + '\n'
     print the_text
