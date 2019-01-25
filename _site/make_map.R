@@ -68,14 +68,19 @@ maps <- c('NASAGIBS.ViirsEarthAtNight2012',
           'Esri.DeLorme',
           'Stamen.Toner')
 
+
+df <- data.frame(place = 'Pyuthan, Nepal',
+                 lat = 28.0833,
+                 lon = 82.8333)
 l <-
-  leaflet(polys) %>%
-  addPolygons(color = NA, opacity = 0, fill = FALSE) %>%
+  leaflet() %>%
+  # addPolygons(color = NA, opacity = 0, fill = FALSE) %>%
   addProviderTiles(maps[4]) %>%
   addCircleMarkers(lat = df$lat,
                    lng = df$lon,
                    col = 'yellow',
-                   popup = df$place) #%>%
+                   popup = df$place) %>%
+  setView(lng = df$lon, lat = df$lat, zoom = 5)
   # addPolygons(color = colors)
 
 library(htmlwidgets)
