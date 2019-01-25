@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Galileo turned 1*"
-date: 2019-01-25
+date: 2019-01-26
 author: Coloma Farré
 backgrounds: /img/galileoturned1/20190121_161026.jpg
 thumb: /img/galileoturned1/0000_IMG_8270 (copy).JPG
@@ -13,15 +13,15 @@ On **January 21st, 2019 Galileo turned 1**. One year being a family of 4, of Ram
 
 <a href="/img/galileoturned1/20190121_161026.jpg"> <img border="0" src= "/img/galileoturned1/20190121_161026.jpg" width="200"></a>
 
-The day before we travelled from Pokhara to Pyuthan, which was a **9 hour car ride** through crazy windy roads with both kids and all our stuff, and an amazing driver the drove us savely to our hotel! The day went as good as it could go but it still was exhausting! The next day I woke up with a bad cold and I had to be in bed most of the day. But Joe, Ramona and Galileo went on some walks to explore our new home town.
+The day before we travelled from Pokhara to Pyuthan, which was a **9 hour car ride** through crazy windy roads with both kids and all our stuff, and an amazing driver that drove us savely to our hotel! The day went as good as it could go but it still was exhausting! The next day I woke up with a bad cold and I had to be in bed most of the day. But Joe, Ramona and Galileo went on some walks to explore our new home town.
 
 <a href="/img/galileoturned1/0000_IMG_8258.JPG"> <img border="0" src= "/img/galileoturned1/0000_IMG_8258.JPG" width="200"></a>
 
-People when they see us here they are mesmerized! They stop what they are doing and stair at us! We are the first white poeple in town for a long time, apparently! **Every body wants to hold Galileo** and take selfies with him, and he seems to not mind it!
+People when they see us here they are mesmerized! They stop what they are doing and stair at us! We are the first white poeple in town for a long time, apparently! **Everybody wants to hold Galileo** and take selfies with him, and he seems to not mind it!
 
 <a href="/img/galileoturned1/0000_IMG_8328.JPG"> <img border="0" src= "/img/galileoturned1/0000_IMG_8328.JPG" width="200"></a>
 
-In the afternoon, before sunset, we decided to **throw a little party** for Galileo! We grabed a plate, we put some cookies and cut out oranges, we sicked a candle (that I got in Pokhara beforehand) in one of the oranges, asked for some matches at the hotel, grabed the 3 ballons I had in my bag (I always carry ballons with me while travelling, great entertainment in aerports, etc.) and when out to find a good spot for it!
+In the afternoon, before sunset, we decided to **throw a little party** for Galileo! We grabed a plate, we put some cookies and cut out oranges, we sticked a candle (that I got in Pokhara beforehand) in one of the oranges, asked for some matches at the hotel, grabed the 3 ballons I had in my bag (I always carry ballons with me while travelling, great entertainment in aerports, etc.) and went out to find a good spot for it!
 
 <a href="/img/galileoturned1/0000_20190121_165930.JPG"> <img border="0" src= "/img/galileoturned1/0000_20190121_165930.JPG" width="200"></a>
 

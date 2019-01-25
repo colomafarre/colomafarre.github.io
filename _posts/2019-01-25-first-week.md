@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First week in Nepal - Kathmandu and Pokhara"
-date: 2019-01-24
+date: 2019-01-25
 author: Coloma Farré
 backgrounds: /img/firstweeknepal/2019:01:18-14:44:16.JPG
 thumb: /img/firstweeknepal/2019:01:15-08:21:44.JPG

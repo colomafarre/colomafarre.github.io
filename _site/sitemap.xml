@@ -222,10 +222,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/first-week/</loc>
-<lastmod>2019-01-24T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/galileo-turns-1/</loc>
 <lastmod>2019-01-25T00:00:00+05:45</lastmod>
 </url>
 <url>
@@ -263,9 +259,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/page/7/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/page/8/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google0dc2b5f9ab7d53c4.html</loc>
