@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-Before moving to Nepal I remember googling "Waldorf School Nepal" to find out if there were Waldorf school options for us there! Living un rural Nepal doesn't give us the opportunity to attend a Waldorf school. But while I was in Kathmandu I had the oportunity to visit <a href="http://childrenofnepal.org/navigation/tashi-waldorf-school-nav" target="_blank">"Tashi Waldorf School"</a> and I want to tell you about it!
+Before moving to Nepal I remember googling "Waldorf School Nepal" to find out if there were Waldorf school options for us there! Living in rural Nepal doesn't give us the opportunity to attend a Waldorf school. But while I was in Kathmandu I had the oportunity to visit <a href="http://childrenofnepal.org/navigation/tashi-waldorf-school-nav" target="_blank">"Tashi Waldorf School"</a> and I want to tell you about it!
 
 <a href="/img/tashiwaldorf/IMG_1248.JPG"> <img border="0" src= "/img/tashiwaldorf/IMG_1248.JPG" width="200"></a>
 
@@ -20,7 +20,7 @@ I contacted them and they quickly welcomed us to visit their school. Ramona and 
 
 <a href="/img/tashiwaldorf/IMG_1251.JPG"> <img border="0" src= "/img/tashiwaldorf/IMG_1251.JPG" width="200"></a>
 
-Tashi in Tibetan means **"all that is good"**. In 2000 Tashi Waldorf School was stablished by two Waldorf teacher. **They started with 5 children from the government orphanage**. They were looking for donations from all over the world to be able to help more and more children in need. They targeted especially to underprivilaged children that couldn't afford going to school. 
+Tashi in Tibetan means **"all that is good"**. In 2000 Tashi Waldorf School was stablished by two Waldorf teachers. **They started with 5 children from the government orphanage**. They were looking for donations from all over the world to be able to help more and more children in need. They targeted underprivileged children that couldn't afford going to school. 
 
 <a href="/img/tashiwaldorf/IMG_1261.JPG"> <img border="0" src= "/img/tashiwaldorf/IMG_1261.JPG" width="200"></a>
 
@@ -38,7 +38,7 @@ Nowadays they have a nursery, two kindergartens and classes from one to four. Th
 
 The main building holds class 1, class 4, nursery, two offices and a library. In the grounds are classrooms for class 2 and 3, a caretakers building, a traditional Nepali house and a kitchen. 
 
-On April 25th 2014 **an earthquake, marked 7.8 on the Richter scale, devastated Nepal**. Many buildings collapsed or were damaged beyond repair. Many of our students lost their homes and now live in tents in temporary camps. **The foundations of the Tashi Waldorf School house were largely affected** and, after an extensive survey, the building was sadly been deemed unsafe. In response, the community worked hard to build two temporary kindergartens in the outside space and the school management brought forward the long term plan to move the school to a tranquil and calm piece land on the greener outskirts of Kathmandu.
+On April 25th 2014 **an earthquake, marked 7.8 on the Richter scale, devastated Nepal**. Many buildings collapsed or were damaged beyond repair. Many of their students lost their homes and now live in tents in temporary camps. **The foundations of the Tashi Waldorf School house were largely affected** and, after an extensive survey, the building was sadly been deemed unsafe. In response, the community worked hard to build two temporary kindergartens in the outside space and the school management brought forward the long term plan to move the school to a tranquile and calm piece of land on the greener outskirts of Kathmandu.
 
 However, **without funds to invest** in a new location, the children and teachers of classes 1 to 4 have no option but to **continue lessons in their condemned building**. They hope that their strict earthquake drill procedures will suffice until enough support is raised.
 
@@ -117,9 +117,9 @@ Each day the children receive a multivitamin supplement, nutritious snack and lu
 
 If you would like to help Tashi Waldorf School and its students you can make a donation. **Any amount would be gratefully received**! You can donate through <a href="http://rsfsocialfinance.org/donate-now/" target="_blank">this webside</a> to **"Children of Nepal"**, the organization that runs the school. You just need to specify the amount you want to donate and that you have not received goods or services for this donation. 
 
-With the money they would be able to hire a school bus, redo the bathrooms and fix the kitchen. They also need money to sponcership students coming from families in need. **You can help a nepali kid have a better and brither future!**
+With the money they would be able to hire a school bus, redo the bathrooms and fix the kitchen. They also need money to sponcership students coming from families in need. **You can help a nepali kid have a better and brighter future!**
 
-Thanks for reading and for helping to the extend possible! 
+Thanks for reading and for helping to the extent possible! 
 
 <a href="/img/tashiwaldorf/IMG_1342.JPG"> <img border="0" src= "/img/tashiwaldorf/IMG_1342.JPG" width="200"></a>
 
