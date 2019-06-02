@@ -17,13 +17,13 @@ It was a very especial birthday this year because I feel like it really was the 
 
 <a href="/img/turned4/IMG_2173.JPG"> <img border="0" src= "/img/turned4/IMG_2173.JPG" width="200"></a>
 
-Since living in Nepal means we see goats and chickens everyday, Ramona has gotten used to sharing more time with animals and knowing more about them, and she really has become an **animal lover** (at least, much more than beofre!!). She was asking for a baby goat for the longest time, so we decided **that that would be he birthday gift**! Eventough we have to leave soon back to Spain, we thought it was a good idea to experience the responabilities and fun that comes from taking care of a baby goat (and its mama
+Since living in Nepal means we see goats and chickens everyday, Ramona has gotten used to sharing more time with animals and knowing more about them, and she really has become an **animal lover** (at least, much more than beofre!!). She was asking for a baby goat for the longest time, so we decided **that that would be her birthday gift**! Eventough we have to leave soon back to Spain, we thought it was a good idea to experience the responabilities and fun that comes from taking care of a baby goat (and its mama!).
 
 So, on her birthday we made french toast for breakfast and we lite a candle so she could ask for a wish, and as we predicted, **she asked for a baby goat!!** Then, Joe went outside and brought the baby goat we bought for her inside. You should have seen her face of sorprise and excitement! She said, "how did she know!?!?!". It was very sweet to see her so happy! She named her "Cleta" and her mother "Neta"! 
 
 <a href="/img/turned4/IMG_4312.JPG"> <img border="0" src= "/img/turned4/IMG_4312.JPG" width="200"></a>
 
-Many of you have asked, what are we going to do with the goat once we move back!?! And no, we are not taking her to Spain (altoght I think Ramona would love that...). We are going to give them to our neighbors. The goats sleep in our neighbors shed now, and that was the deal!
+Many of you have asked, **what are we going to do with the goat once we move back!?** And no, we are not taking her to Spain (altoght I think Ramona would love that...). We are going to give them to our neighbors. The goats sleep in our neighbors shed now, and that was the deal!
 
 <a href="/img/turned4/IMG_4341.JPG"> <img border="0" src= "/img/turned4/IMG_4341.JPG" width="200"></a>
 
@@ -57,7 +57,7 @@ Not having an oven at home meant that we had to order a cake. Ramona asked for a
 
 When it came time to blow at the candles on the cake, she got really quiet and she waited a long time. Then she said "since I already have a baby goat I don't know what to wish for".
 
-Then she waited some more. Then she said "I wish for my mom and dad to always be happy".
+Then she waited some more. Then she said **"I wish for my mom and dad to always be happy"**.
 
 
 <a href="/img/turned4/IMG_4265.JPG"> <img border="0" src= "/img/turned4/IMG_4265.JPG" width="200"></a>
@@ -66,6 +66,11 @@ Really. She said that. It was so sweet. Sweetest girl ever.
 
 <a href="/img/turned4/IMG_4273.JPG"> <img border="0" src= "/img/turned4/IMG_4273.JPG" width="200"></a>
 
-Here is the video I make every year to summerize her year. During this year, she went twice to the states and once to Canada, she started school in Santa Coloma, she went to Berlin to meet her cousins Arthur and Lucy, she spent a very cozy and catalan Christmas, 
+Here is **the video I make every birthday to summerize her year**. 
+
+
+During this year, she went twice to the US and once to Canada, she started school in Santa Coloma, she went to Berlin to meet her cousins Arthur and Lucy, she spent a very cozy and catalan Christmas, and then we moved to Nepal and travelled to Thailand! 
+
+New countries, new places, new friends and new adventures, but same Ramona: smart, curious, sweet, funny and brave. We love you baby girl, we will always love you!
 
 
