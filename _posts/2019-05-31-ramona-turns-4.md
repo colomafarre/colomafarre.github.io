@@ -13,21 +13,21 @@ On May 29th 2019, Ramona turned 4. Four times around the sun! And this year she 
 
 <a href="/img/turned4/IMG_1813.JPG"> <img border="0" src= "/img/turned4/IMG_1813.JPG" width="200"></a>
 
-It was a very especial birthday this year because I feel like it really was the first one she really understood, anticipated (we made a calendar to count down the days till her day!) and was asking for specific gifts!
+It was a very especial birthday this year because I feel like it really was the first one she really understood, anticipated (we made a calendar to count down the days until her day!), and was asking for specific gifts!
 
 <a href="/img/turned4/IMG_2173.JPG"> <img border="0" src= "/img/turned4/IMG_2173.JPG" width="200"></a>
 
-Since living in Nepal means we see goats and chickens everyday, Ramona has gotten used to sharing more time with animals and knowing more about them, and she really has become an **animal lover** (at least, much more than beofre!!). She was asking for a baby goat for the longest time, so we decided **that that would be her birthday gift**! Eventough we have to leave soon back to Spain, we thought it was a good idea to experience the responabilities and fun that comes from taking care of a baby goat (and its mama!).
+Since living in Nepal means we see goats and chickens everyday, Ramona has gotten used to sharing more time with animals and knowing more about them, and she really has become an **animal lover** (at least, much more than before!!). She was asking for a baby goat for the longest time, so we decided **that that would be her birthday gift**! Even though we have to leave soon back to Catalonia, we thought it was a good idea to experience the responsabilities and fun that comes from taking care of a baby goat (and its mama!).
 
-So, on her birthday we made french toast for breakfast and we lite a candle so she could ask for a wish, and as we predicted, **she asked for a baby goat!!** Then, Joe went outside and brought the baby goat we bought for her inside. You should have seen her face of sorprise and excitement! She said, "how did she know!?!?!". It was very sweet to see her so happy! She named her "Cleta" and her mother "Neta"! 
+So, on her birthday we made french toast for breakfast and we lit a candle so she could ask for a wish, and as we predicted, **she asked for a baby goat!!** Then, Joe went outside and brought the baby goat we bought for her inside. You should have seen her face of surprise and excitement! She said, "how did she know!?!?!". It was very sweet to see her so happy! She named her "Cleta" and her mother "Neta"! 
 
 <a href="/img/turned4/IMG_4312.JPG"> <img border="0" src= "/img/turned4/IMG_4312.JPG" width="200"></a>
 
-Many of you have asked, **what are we going to do with the goat once we move back!?** And no, we are not taking her to Spain (altoght I think Ramona would love that...). We are going to give them to our neighbors. The goats sleep in our neighbors shed now, and that was the deal!
+Many of you have asked, **what are we going to do with the goat once we move back!?** And no, we are not taking her home (altoght I think Ramona would love that...). We are going to give them to our neighbors. The goats sleep in our neighbors shed now, and that was the deal!
 
 <a href="/img/turned4/IMG_4341.JPG"> <img border="0" src= "/img/turned4/IMG_4341.JPG" width="200"></a>
 
-On the afternoon we invited everyone we know to **Ramona's Birthday Party!** From 4 pm we were outside in our yard, friends and neighbors came over, we played with ballons, made bubbles, dance to some fun music and had some snacks (bananas and peanuts for everyone). Galileo was the dancing star! He sorprised everyone with the best dancing moves (go see the video at the end of the post!).
+In the afternoon we invited everyone we know to **Ramona's Birthday Party!** From 4 pm we were outside in our yard, friends and neighbors came over, we played with ballons, made bubbles, danced to some fun music and had some snacks (bananas and peanuts for everyone). Galileo was the dancing star! He surprised everyone with the best dancing moves (go see the video at the end of the post!).
 
 <a href="/img/turned4/IMG_4186.JPG"> <img border="0" src= "/img/turned4/IMG_4186.JPG" width="200"></a>
 
@@ -66,8 +66,9 @@ Really. She said that. It was so sweet. Sweetest girl ever.
 
 <a href="/img/turned4/IMG_4273.JPG"> <img border="0" src= "/img/turned4/IMG_4273.JPG" width="200"></a>
 
-Here is **the video I make every birthday to summerize her year**. 
+Here is **the video I make every birthday to summarize her year**. 
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TRhV4qoZplo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 During this year, she went twice to the US and once to Canada, she started school in Santa Coloma, she went to Berlin to meet her cousins Arthur and Lucy, she spent a very cozy and catalan Christmas, and then we moved to Nepal and travelled to Thailand! 
 
