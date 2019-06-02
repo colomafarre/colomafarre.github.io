@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ramona turned 4*"
-date: 2019-05-31
+date: 2019-06-02
 author: Coloma Farré 	
 backgrounds: /img/turned4/20190531_102309.jpg
 thumb: /img/turned4/IMG_4185.JPG
