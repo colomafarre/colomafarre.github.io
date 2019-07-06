@@ -26,14 +26,14 @@ We thought living where we live was very rural and remote, but it was nothing co
 <a href="/img/syauliwang/IMG_3671.JPG"> <img border="0" src= "/img/syauliwang/IMG_3671.JPG" width="200"></a>
 
 
-We left Friday after an early lunch. We squeezed in the jeep, plus 2 motorcylces. We didn't know how the roads where going to be so we didn't know how far they would drive us. After a 3 hour drive, with a stop to eat dal bhat (rice and lentils), and a few criver crossings (because the road was blocked by a landslide), we loaded up our backpacks and started our hike.
+We left Friday after an early lunch. We squeezed in the jeep, plus 2 motorcylces. We didn't know how the roads where going to be so we didn't know how far they would drive us. After a 3 hour drive, with a stop to eat dal bhat (rice and lentils), and a few river crossings (because the road was blocked by a landslide), we loaded up our backpacks and started our hike.
 
 
 <a href="/img/syauliwang/IMG_3680.JPG"> <img border="0" src= "/img/syauliwang/IMG_3680.JPG" width="200"></a>
 
 <a href="/img/syauliwang/IMG_3693.JPG"> <img border="0" src= "/img/syauliwang/IMG_3693.JPG" width="200"></a>
 
-The trails where beautiful, going along the mountains, through the forest, following up the river, the air was getting cooler,
+The trails where beautiful, going along the mountains, through the forest, following up the river, the air was getting cooler, it felt so peacful!
 
 <a href="/img/syauliwang/IMG_3701.JPG"> <img border="0" src= "/img/syauliwang/IMG_3701.JPG" width="200"></a>
 
@@ -61,7 +61,7 @@ After about 3 hours walking, with some mandatory breaks to eat snacks and swim i
 
 <a href="/img/syauliwang/IMG_3832.JPG"> <img border="0" src= "/img/syauliwang/IMG_3832.JPG" width="200"></a>
 
-There are no "hotels" per se in Syauliwang, so our friend Kuber arranged for some housing. Basically, some spare rooms in mud houses run by a family which also had a small restaurant. Cost per person per night (including meals) was about four dollars. How's that for a deal?
+There are no "hotels" per se in Syauliwang, so our friend Kuber arranged for some housing. Basically, some spare rooms in mud houses run by a family which also had a small restaurant. **Cost per person per night (including meals) was about four dollars**. How's that for a deal?
 
 <a href="/img/syauliwang/IMG_3852.JPG"> <img border="0" src= "/img/syauliwang/IMG_3852.JPG" width="200"></a>
 
@@ -140,4 +140,4 @@ We finnished the day back at our house, with a bonfire, mo-mos, well deserved co
 
 And the awesome video Joe put together, so you can see how cool our hike and the town were!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/uk8mQAXtaqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uk8mQAXtaqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
