@@ -6,19 +6,19 @@ library(maptools)
 library(rgdal)
 library(RColorBrewer)
 
-# Dataframe of places we have been
-df <- data_frame(
-  place = c('Manhiça, Spain')
-)
-
-# Get lat/lng
-location <- geocode(df$place)
-location_full <- geocode(df$place, output = 'all')
-df <- cbind(df, location)
-
-# Manually create vector of countries
-df$country <- c('MOZ')
-countries <- df$country
+# # Dataframe of places we have been
+# df <- data_frame(
+#   place = c('Santa Coloma de Queralt, Catalonia')
+# )
+# 
+# # Get lat/lng
+# location <- geocode(df$place)
+# location_full <- geocode(df$place, output = 'all')
+# df <- cbind(df, location)
+# 
+# # Manually create vector of countries
+# df$country <- c('MOZ')
+# countries <- df$country
 
 # This chunk gets shapefile(s) from the GADM
 # database and uses their standardized notation
@@ -69,9 +69,9 @@ maps <- c('NASAGIBS.ViirsEarthAtNight2012',
           'Stamen.Toner')
 
 
-df <- data.frame(place = 'Pyuthan, Nepal',
-                 lat = 28.0833,
-                 lon = 82.8333)
+df <- data.frame(place = 'Santa Coloma de Queralt, Catalonia',
+                 lat = 41.54322,
+                 lon = 1.3829)
 l <-
   leaflet() %>%
   # addPolygons(color = NA, opacity = 0, fill = FALSE) %>%
